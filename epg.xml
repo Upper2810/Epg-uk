@@ -48,64 +48,14 @@
     <url>https://virgintvgo.virginmedia.com/en/epg/initial</url>
     <display-name>SKY ULTRA 2</display-name>
   </channel>
-  <programme channel="virgin_uk.2265" start="20261121053000 +0100" stop="20261121113000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261121060000 +0100" stop="20261121130000 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.433" start="20261121070000 +0100" stop="20261121120000 +0100">
-    <title lang="en">This Is TNT Sports Ultimate</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261121070000 +0100" stop="20261121123000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261121090000 +0100" stop="20261121120000 +0100">
-    <title lang="en">Live International T20 Cricket</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cb9dbd5a-ce29-544d-830e-5f4f11781bde.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261121090000 +0100" stop="20261121124500 +0100">
-    <title lang="en">Live International T20 Cricket</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cb9dbd5a-ce29-544d-830e-5f4f11781bde.jpg" />
-  </programme>
   <programme channel="ee_uk.452" start="20261121090000 +0100" stop="20261121154500 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.450" start="20261121094000 +0100" stop="20261121114500 +0100">
-    <title lang="en">Live: A-League: Brisbane Roar v Sydney FC</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.411" start="20261121101500 +0100" stop="20261121120000 +0100">
-    <title lang="en">Live: Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/06f7e5db-8e5c-546a-a7a2-efe0633c1855.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261121110000 +0100" stop="20261121134500 +0100">
     <title lang="en">Live MotoGP</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/f1751253-f8b8-5a31-a1f6-c7cbc356f047.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261121110000 +0100" stop="20261121123000 +0100">
-    <title lang="en">Premier League Weekend</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7b4800e5-e30a-59d7-b70e-427b877fe377.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261121110000 +0100" stop="20261121123000 +0100">
-    <title lang="en">Premier League Weekend</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7b4800e5-e30a-59d7-b70e-427b877fe377.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2265" start="20261121113000 +0100" stop="20261121123000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.450" start="20261121114500 +0100" stop="20261121142500 +0100">
     <title lang="en">This is TNT Sports 5</title>
@@ -115,11 +65,6 @@
     <title lang="en">Live PL: Manchester City v Fulham</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7b55f880-e3db-502e-a449-c868af4a6900.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261121120000 +0100" stop="20261121133000 +0100">
-    <title lang="en">Live SailGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ba2e72bb-eacb-506c-a7ca-8f320ea0b0ad.jpg" />
   </programme>
   <programme channel="ee_uk.433" start="20261121120000 +0100" stop="20261121160000 +0100">
     <title lang="en">Live PL: Manchester City v Fulham</title>
@@ -131,23 +76,9 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/1259af4b-6b9c-5c70-b08b-467d6dca61a2.jpg" />
   </programme>
-  <programme channel="ee_uk.420" start="20261121123000 +0100" stop="20261121130000 +0100">
-    <title lang="en">Premier League Preview</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d19051a9-ebc9-549b-96b3-d363ab01ee2a.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261121123000 +0100" stop="20261121133000 +0100">
-    <title lang="en">Premier League Preview</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="virgin_uk.2265" start="20261121123000 +0100" stop="20261121160000 +0100">
     <title lang="en">Live EFL: Millwall v QPR</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261121124500 +0100" stop="20261121131500 +0100">
-    <title lang="en">T100 Triathlon World Tour Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9fdcc6e4-6bd2-586a-8620-0d310435e5a2.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261121130000 +0100" stop="20261121154500 +0100">
     <title lang="en">Live WSL</title>
