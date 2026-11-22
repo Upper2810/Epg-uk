@@ -48,142 +48,9 @@
     <url>https://virgintvgo.virginmedia.com/en/epg/initial</url>
     <display-name>SKY ULTRA 2</display-name>
   </channel>
-  <programme channel="ee_uk.433" start="20261122070000 +0100" stop="20261122190000 +0100">
-    <title lang="en">This Is TNT Sports Ultimate</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
-  </programme>
-  <programme channel="ee_uk.452" start="20261122103000 +0100" stop="20261122144500 +0100">
-    <title lang="en">Live: Cricket International League</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261122121500 +0100" stop="20261122143000 +0100">
-    <title lang="en">Live: Serie A</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/8267546f-4f0e-5f7b-88c2-1958b7daed87.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261122123000 +0100" stop="20261122150000 +0100">
-    <title lang="en">Live WSL</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9f14b040-0e97-5bb9-b1d5-42e25eb5dafd.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261122130000 +0100" stop="20261122140000 +0100">
-    <title lang="en">Boss with Jamie Carragher</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0ec6afa1-764a-500c-a608-8d21e9f67118.jpg" />
-  </programme>
-  <programme channel="ee_uk.451" start="20261122130000 +0100" stop="20261122134200 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261122130000 +0100" stop="20261122140000 +0100">
-    <title lang="en">New: Boss with Jamie Carragher:Hurzeler</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="virgin_uk.2265" start="20261122130000 +0100" stop="20261122140000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261122131500 +0100" stop="20261122160000 +0100">
-    <title lang="en">Live MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7cbf6786-734d-519a-b893-8fbe8d14005d.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261122133000 +0100" stop="20261122134500 +0100">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/dbfe028a-62c1-5a51-a428-0c2dd58d31ec.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261122133000 +0100" stop="20261122143000 +0100">
-    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b9370f44-becc-58db-9d0b-af4f94adb90c.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261122133000 +0100" stop="20261122142500 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261122134200 +0100" stop="20261122145700 +0100">
-    <title lang="en">Live: Cyclo-Cross X2O Badkamers Trofee</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261122134500 +0100" stop="20261122150000 +0100">
-    <title lang="en">Live: Longines Global Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7e499990-56ff-564f-8fd3-d6572a58a762.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261122140000 +0100" stop="20261122170000 +0100">
-    <title lang="en">Live PL: Hull City v Brighton</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f75caea4-11f4-55ad-ad0f-681ffd1cd4f4.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261122140000 +0100" stop="20261122170000 +0100">
-    <title lang="en">Live: Premier League</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="virgin_uk.2265" start="20261122140000 +0100" stop="20261122180000 +0100">
-    <title lang="en">Live: Grand Slam of Darts</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.450" start="20261122142500 +0100" stop="20261122153000 +0100">
-    <title lang="en">Live: Ski Jumping World Cup: Lillehammer - Men's HS 140</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261122143000 +0100" stop="20261122153000 +0100">
-    <title lang="en">Test Cricket Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/472f36ed-ce54-50d7-ab8d-948cfa4374f8.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261122143000 +0100" stop="20261122150000 +0100">
-    <title lang="en">The Monuments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/01e7304a-fb3d-5d2e-9f03-a6d1d581b927.jpg" />
-  </programme>
   <programme channel="ee_uk.452" start="20261122144500 +0100" stop="20261123024500 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261122145700 +0100" stop="20261122162000 +0100">
-    <title lang="en">Live: Cyclo-Cross X2O Badkamers Trofee</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261122150000 +0100" stop="20261122154500 +0100">
-    <title lang="en">Sign Up - Into Football</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/195c4e8a-cd38-5837-bb8c-930484b5b579.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261122150000 +0100" stop="20261122191500 +0100">
-    <title lang="en">Live: ILT20</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/430b21a8-9be9-5550-8401-84aca7f50542.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261122150000 +0100" stop="20261122170000 +0100">
-    <title lang="en">Live PL: Hull City v Brighton</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f75caea4-11f4-55ad-ad0f-681ffd1cd4f4.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261122153000 +0100" stop="20261122181500 +0100">
-    <title lang="en">Live: Jaecoo PWR</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c26fc351-2ab9-5fca-9b20-ac0de306c1e8.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261122153000 +0100" stop="20261122154500 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261122154500 +0100" stop="20261122171500 +0100">
-    <title lang="en">Live: Longines Global Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7e499990-56ff-564f-8fd3-d6572a58a762.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261122154500 +0100" stop="20261122180000 +0100">
-    <title lang="en">Live: Ski Jumping World Cup: Lillehammer - Men's HS 140</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261122160000 +0100" stop="20261122180000 +0100">
-    <title lang="en">Live: Ski Jumping World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/af04b5d9-be36-590f-b128-de4431493899.jpg" />
   </programme>
   <programme channel="ee_uk.451" start="20261122162000 +0100" stop="20261123042000 +0100">
     <title lang="en">This is TNT Sports 6</title>
@@ -203,38 +70,13 @@
     <title lang="en">Live: Premier League</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.410" start="20261122171500 +0100" stop="20261122173000 +0100">
-    <title lang="en">TNT Sports Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/081211ee-4dca-59a5-a040-a5b91668bef8.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261122173000 +0100" stop="20261122183000 +0100">
-    <title lang="en">The Match That Changed Tennis</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/de7409aa-c6ff-517d-b78d-b3e133f95d75.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261122180000 +0100" stop="20261122190000 +0100">
-    <title lang="en">MLB Classic</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/11b7a28b-a4d7-5d6c-b243-f9865b31bada.jpg" />
-  </programme>
   <programme channel="ee_uk.450" start="20261122180000 +0100" stop="20261122225000 +0100">
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="virgin_uk.2265" start="20261122180000 +0100" stop="20261122200000 +0100">
-    <title lang="en">EFL 26/27: Stoke City v Birmingham</title>
+    <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261122181500 +0100" stop="20261122191500 +0100">
-    <title lang="en">PREM Rugby Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/23c1d9fc-58dc-58ae-a000-fa35e184327b.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261122183000 +0100" stop="20261122190000 +0100">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/89ef5f89-3d3f-5a3d-bc8d-f31e43ce9c7b.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261122190000 +0100" stop="20261122200000 +0100">
     <title lang="en">Asian Le Mans Series Highlights</title>
