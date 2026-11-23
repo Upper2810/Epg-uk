@@ -65,267 +65,23 @@
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="virgin_uk.2258" start="20261123070000 +0100" stop="20261123093000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261123080000 +0100" stop="20261123083000 +0100">
-    <title lang="en">Premier League - The Big Interview</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ee8a9b6b-eca7-586a-91be-8ad56daf8b79.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123080000 +0100" stop="20261123090000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4389c8fb-180c-54fc-8c99-f1b01dc8c4b7.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123080000 +0100" stop="20261123083000 +0100">
-    <title lang="en">Ski Jumping World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cfd55bbc-9082-54fe-9e5a-5510735420f7.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123080000 +0100" stop="20261123083000 +0100">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/89ef5f89-3d3f-5a3d-bc8d-f31e43ce9c7b.jpg" />
-  </programme>
   <programme channel="ee_uk.419" start="20261123080000 +0100" stop="20261123170000 +0100">
     <title lang="en">Live Test Cricket</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/219315b2-dbe7-5a0f-a212-0a8ee1630dc2.jpg" />
   </programme>
-  <programme channel="ee_uk.420" start="20261123080000 +0100" stop="20261123083000 +0100">
-    <title lang="en">SNF</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5c97bf2b-3ce5-542b-baf3-4f30cdc60ed2.jpg" />
-  </programme>
   <programme channel="virgin_uk.2265" start="20261123080000 +0100" stop="20261123140000 +0100">
-    <title lang="en">EFL 26/27: Norwich City v Cardiff</title>
+    <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261123083000 +0100" stop="20261123090000 +0100">
-    <title lang="en">Premier League Stories</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ff61ed59-b3e9-56a3-a87f-b82de2404fe2.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123083000 +0100" stop="20261123090000 +0100">
-    <title lang="en">Ski Jumping World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/66e0a85e-210e-544d-adf5-ef7929be9ebd.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123083000 +0100" stop="20261123090000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f64338c1-d9fa-54ac-a221-98224443eaa8.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123083000 +0100" stop="20261123090000 +0100">
-    <title lang="en">Premier League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6ea73bc7-ddf5-5afb-b246-cc54a9adcf0b.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261123090000 +0100" stop="20261123103000 +0100">
-    <title lang="en">Premier League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d242b191-b4e9-57fd-9689-d50f46fe7548.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123090000 +0100" stop="20261123093000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3e036bb8-19e0-5504-b3d4-98f571bcd65b.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123090000 +0100" stop="20261123093000 +0100">
-    <title lang="en">Ski Jumping World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0706b058-8211-5e54-9a79-9d7d22c94ec5.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123090000 +0100" stop="20261123093000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/758475ad-5e92-585b-94f0-a9f9b26a3aa0.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123090000 +0100" stop="20261123093000 +0100">
-    <title lang="en">Premier League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ae19c4fc-84e0-5012-aae9-e01a51b26cf9.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123093000 +0100" stop="20261123103000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d62ee97a-9c7b-5ade-8844-eb70804dd1eb.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123093000 +0100" stop="20261123100000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9b463bdd-bdaa-5fc5-8134-78a560593057.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123093000 +0100" stop="20261123100000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3a23754e-8b2b-5fae-a208-464a34b6e370.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123093000 +0100" stop="20261123100000 +0100">
-    <title lang="en">SNF</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5c97bf2b-3ce5-542b-baf3-4f30cdc60ed2.jpg" />
   </programme>
   <programme channel="virgin_uk.2258" start="20261123093000 +0100" stop="20261123153000 +0100">
-    <title lang="en">SNF:Newcastle v Arsenal Highlights</title>
+    <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261123100000 +0100" stop="20261123103000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b7effb08-43a7-5a3d-b0f2-c8b73efd3968.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123100000 +0100" stop="20261123103000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ac0ab8f8-1c43-5e13-a10c-f4d0a0fca573.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123100000 +0100" stop="20261123103000 +0100">
-    <title lang="en">Premier League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6ea73bc7-ddf5-5afb-b246-cc54a9adcf0b.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261123103000 +0100" stop="20261123113000 +0100">
-    <title lang="en">Serie A</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e9b53f36-9279-5b57-9cb0-efbe4d968453.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123103000 +0100" stop="20261123110000 +0100">
-    <title lang="en">Cyclocross</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/53e8dc05-7873-5efb-960b-56b9513f0df2.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123103000 +0100" stop="20261123110000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0e21bc9c-d524-541d-932b-a064f674e7c0.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123103000 +0100" stop="20261123110000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6e474df4-933d-5ca0-9b1b-964d09024ccc.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123103000 +0100" stop="20261123110000 +0100">
-    <title lang="en">Premier League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ae19c4fc-84e0-5012-aae9-e01a51b26cf9.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123110000 +0100" stop="20261123113000 +0100">
-    <title lang="en">Cyclocross</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0d899605-a5d3-5eaf-ab3a-57fdc0925ae0.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123110000 +0100" stop="20261123113000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a4028b70-a730-50ba-bf9c-a989352caf53.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123110000 +0100" stop="20261123113000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5a2343f4-750c-521f-9fff-ee1d1401ef17.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123110000 +0100" stop="20261123120000 +0100">
-    <title lang="en">Sky Sports FC</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261123113000 +0100" stop="20261123123000 +0100">
-    <title lang="en">Serie A</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e22ede08-2af4-5744-987a-c82998183cc7.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123113000 +0100" stop="20261123120000 +0100">
-    <title lang="en">Cyclocross</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/52f36eae-b5bf-56d8-ac56-eebb017b9347.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123113000 +0100" stop="20261123120000 +0100">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/2960b8d8-f26a-54f3-b54b-966e3d8aec0e.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123113000 +0100" stop="20261123120000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f143aa2c-3290-5382-91bd-5a4e2e4d56ff.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123120000 +0100" stop="20261123123000 +0100">
-    <title lang="en">Cyclocross</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3f8d6261-52ad-5ebc-95c4-10ef568df10a.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123120000 +0100" stop="20261123123000 +0100">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/53cdeb8d-16ec-5b1e-97c0-f57b7a14bc62.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123120000 +0100" stop="20261123123000 +0100">
-    <title lang="en">UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/85cbb5c3-5c08-534d-a0f1-3be6dcafe017.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123120000 +0100" stop="20261123130000 +0100">
-    <title lang="en">Ref Watch</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c9361e41-8187-5c20-b414-849337cfb138.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261123123000 +0100" stop="20261123130000 +0100">
-    <title lang="en">ILT20 Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6954328f-8ae4-5e39-9496-66b08c45a2c2.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123123000 +0100" stop="20261123124500 +0100">
-    <title lang="en">World Superbike Rewind</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5719b8cc-81b8-592e-bd01-e0644816865d.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261123123000 +0100" stop="20261123133000 +0100">
-    <title lang="en">Tour de France Women</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/1c4e7e79-7737-52b1-817e-51dbc6f214e5.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261123123000 +0100" stop="20261123133000 +0100">
-    <title lang="en">Ultra-Trail World Tour</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a3b0d790-8b3d-53bf-9e7c-079e328dda59.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123124500 +0100" stop="20261123130000 +0100">
-    <title lang="en">World Superbike Rewind</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/54f5b3ed-00b7-59c7-84b8-756c25c565b0.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261123130000 +0100" stop="20261123133000 +0100">
-    <title lang="en">ILT20 Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fa95347d-fb85-52da-9b27-55250d49eed7.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123130000 +0100" stop="20261123131500 +0100">
-    <title lang="en">World Superbike Rewind</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a5f37bf1-0fd9-5f0e-8c78-4199cdc6290d.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261123130000 +0100" stop="20261123133000 +0100">
-    <title lang="en">Premier League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cd8c4c5c-9a90-5e98-8886-91794228c485.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123131500 +0100" stop="20261123133000 +0100">
-    <title lang="en">World Superbike Rewind</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5a3e0235-5894-531c-a9ec-b7aca348df03.jpg" />
   </programme>
   <programme channel="ee_uk.408" start="20261123133000 +0100" stop="20261123140000 +0100">
     <title lang="en">ILT20 Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/dead045b-ccb4-5708-a786-87af783a33e0.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261123133000 +0100" stop="20261123134500 +0100">
-    <title lang="en">World Superbike Rewind</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e99474bf-8195-5056-bbcb-448331e794f7.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261123133000 +0100" stop="20261123143000 +0100">
     <title lang="en">Tour de France Men Highlights</title>
@@ -4964,5 +4720,2200 @@
     <title lang="en">FNF</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e629138d-ae8c-5d06-bead-389dd08c2758.jpg" />
+  </programme>
+  <programme start="20261129010000 +0100" stop="20261129013000 +0100" channel="ee_uk.420">
+    <title lang="en">SNF: Ipswich v Aston Villa Hlts</title>
+    <desc lang="en">On Saturday Night Football, Ipswich Town play host to Aston Villa at Portman Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129010000 +0100" stop="20261129020000 +0100" channel="ee_uk.410">
+    <title lang="en">FEI Jumping World Cup - NAL</title>
+    <desc lang="en">Action from the final North American League qualifier of 2026, as premier riders compete for vital points at Santa Anita Park in Arcadia, California.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/641644a4-8abc-4317-9127-e1d0f4cb48b2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/641644a4-8abc-4317-9127-e1d0f4cb48b2/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129010000 +0100" stop="20261129013000 +0100" channel="ee_uk.411">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the women's giant slalom, part of the FIS Alpine Skiing World Cup at Killington Resort in Vermont.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69989c62-95a1-4b21-a9c1-bfb88529eff2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/69989c62-95a1-4b21-a9c1-bfb88529eff2/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129013000 +0100" stop="20261129020000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Leeds v Coventry Highlights</title>
+    <desc lang="en">Leeds United play host to Coventry City at Elland Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/3-4" />
+    <episode-num system="xmltv_ns">2025.420.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129013000 +0100" stop="20261129020000 +0100" channel="ee_uk.419">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/be97ad9e-7c76-485a-a1bb-474ebd09cf95/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/be97ad9e-7c76-485a-a1bb-474ebd09cf95/3-4" />
+    <episode-num system="xmltv_ns">.119.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129013000 +0100" stop="20261129023000 +0100" channel="ee_uk.409">
+    <title lang="en">UEL &amp; UECL Highlights Show</title>
+    <desc lang="en">Highlights of all the best action from the Europa League and the Conference League, including Celta v Bournemouth, Sunderland v Jagiellonia and Crystal Palace v Real Sociedad.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/43dce3cf-7f57-40a4-9577-b378237f6bb6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/43dce3cf-7f57-40a4-9577-b378237f6bb6/3-4" />
+    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129013000 +0100" stop="20261129020000 +0100" channel="ee_uk.411">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run two of the women's giant slalom as the Alpine Skiing World Cup makes its fourth stop of the season in Killington, USA.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/75f0af16-23de-4849-a3d9-2dbd874f703d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/75f0af16-23de-4849-a3d9-2dbd874f703d/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129020000 +0100" stop="20261129023000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Man United v Brentford Hlts</title>
+    <desc lang="en">Manchester United play host to Brentford at Old Trafford in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/3-4" />
+    <episode-num system="xmltv_ns">2025.421.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129020000 +0100" stop="20261129070000 +0100" channel="ee_uk.419">
+    <title lang="en">Live DP World Tour Golf</title>
+    <desc lang="en">Day four of the BMW Australian PGA Championship, held in Sydney. This event forms part of the Opening Swing as the new season of the DP World Tour gets underway.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/44069470-a61c-423a-b20c-e01a548e342a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/44069470-a61c-423a-b20c-e01a548e342a/3-4" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129020000 +0100" stop="20261129033000 +0100" channel="ee_uk.410">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Action from the last 16 of the 36Vegas Mixed Pairs as Megan Proctor and Liam White seek to defend their crown in a tough group that also includes 2025's beaten finalists.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db23c84f-3a79-4c28-b813-0e2f19bd9b64/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/db23c84f-3a79-4c28-b813-0e2f19bd9b64/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129020000 +0100" stop="20261129023000 +0100" channel="ee_uk.411">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Action from the men's super G, part of the 2026 FIS Alpine Skiing World Cup in Copper Mountain, Colorado.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129023000 +0100" stop="20261129030000 +0100" channel="ee_uk.420">
+    <title lang="en">FNF: Nott'm Forest v Chelsea Hlts</title>
+    <desc lang="en">On Friday Night Football, Nottingham Forest play host to Chelsea at the City Ground in the Premier League. (27.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fbef821-8178-450f-8903-8aa0538d6c22/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/0fbef821-8178-450f-8903-8aa0538d6c22/3-4" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129023000 +0100" stop="20261129030000 +0100" channel="ee_uk.409">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1148c34c-d1eb-4178-87cb-524e1dfa1f54/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1148c34c-d1eb-4178-87cb-524e1dfa1f54/3-4" />
+    <episode-num system="xmltv_ns">2025.13.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129023000 +0100" stop="20261129033000 +0100" channel="ee_uk.411">
+    <title lang="en">Trailfinders W v Harlequins W</title>
+    <desc lang="en">Action from the Jaecoo PWR as Trailfinders take on Harlequins at Trailfinders Sports Club.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e33bb689-71f9-44a0-94e2-a94eba7211ec/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e33bb689-71f9-44a0-94e2-a94eba7211ec/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129030000 +0100" stop="20261129033000 +0100" channel="ee_uk.420">
+    <title lang="en">SNF: Ipswich v Aston Villa Hlts</title>
+    <desc lang="en">On Saturday Night Football, Ipswich Town play host to Aston Villa at Portman Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129030000 +0100" stop="20261129033000 +0100" channel="ee_uk.409">
+    <title lang="en">MotoGP: Valencia Sprint Race</title>
+    <desc lang="en">Sprint race action from the 2026 MotoGP Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e733429-33f5-43b3-8c0f-58ad0fa72262/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/9e733429-33f5-43b3-8c0f-58ad0fa72262/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129033000 +0100" stop="20261129040000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Leeds v Coventry Highlights</title>
+    <desc lang="en">Leeds United play host to Coventry City at Elland Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/3-4" />
+    <episode-num system="xmltv_ns">2025.420.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129033000 +0100" stop="20261129040000 +0100" channel="ee_uk.409">
+    <title lang="en">Cyclocross World Cup</title>
+    <desc lang="en">Action from the UCI Cyclo-cross World Cup in Ostrava, Czechia, as the world's leading riders battle for victory in the women's race on the sport's premier circuit.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/239b3a37-2d1b-47d7-8735-0da72c90b17c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/239b3a37-2d1b-47d7-8735-0da72c90b17c/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129033000 +0100" stop="20261129043000 +0100" channel="ee_uk.410">
+    <title lang="en">Longines Champions Tour</title>
+    <desc lang="en">The 2026 Longines Global Champions Tour individual season reaches a climax in Verona, Italy. Who will claim the title?</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f23558e6-cfcb-4ff9-b364-6a63b4122ff9/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f23558e6-cfcb-4ff9-b364-6a63b4122ff9/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129033000 +0100" stop="20261129040000 +0100" channel="ee_uk.411">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129040000 +0100" stop="20261129041500 +0100" channel="ee_uk.420">
+    <title lang="en">PL Greatest:Bournemouth/L'Pool '16</title>
+    <desc lang="en">Bournemouth: Enjoy the greatest Premier League game for each of the league's 47 clubs, as voted for by fans. Here, for Bournemouth, their stunning 4-3 comeback win over Liverpool in 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/090b2e4e-d119-41c8-9c93-5e4ffe2da6ce/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/090b2e4e-d119-41c8-9c93-5e4ffe2da6ce/3-4" />
+    <episode-num system="xmltv_ns">.133.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129040000 +0100" stop="20261129043000 +0100" channel="ee_uk.409">
+    <title lang="en">Cyclocross World Cup</title>
+    <desc lang="en">The UCI Cyclo-cross World Cup heads to Ostrava, Czechia, where an elite field of riders goes head-to-head in the men's race.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d60e1e9-1fe8-4587-9b2f-f0c5581fa8d3/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5d60e1e9-1fe8-4587-9b2f-f0c5581fa8d3/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129040000 +0100" stop="20261129043000 +0100" channel="ee_uk.411">
+    <title lang="en">The Football Archives: UCL 1997/98</title>
+    <desc lang="en">This episode of The Football Archives takes a look at the 1997/98 UEFA Champions League season. Marcello Lippi's Juventus side were on the hunt for a third consecutive final.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6cacd4d7-24ae-467a-be7f-6fd31d57c348/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6cacd4d7-24ae-467a-be7f-6fd31d57c348/3-4" />
+    <episode-num system="xmltv_ns">2019.5.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129041500 +0100" stop="20261129043000 +0100" channel="ee_uk.420">
+    <title lang="en">PL Greatest:Birmingham/A Villa '02</title>
+    <desc lang="en">Birmingham: Enjoy the greatest Premier League game for each of the league's 47 clubs, as voted for by fans. Here, for Birmingham City, the 3-0 win over rivals Aston Villa in 2002.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/811cdd82-c880-4c2b-b831-c138afcb22d5/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/811cdd82-c880-4c2b-b831-c138afcb22d5/3-4" />
+    <episode-num system="xmltv_ns">.134.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129043000 +0100" stop="20261129044500 +0100" channel="ee_uk.420">
+    <title lang="en">PL Greatest: Bradford/L'Pool 2000</title>
+    <desc lang="en">Bradford: Enjoy the greatest Premier League game for each of the league's 49 clubs, as voted for by fans. Here, for Bradford City, their 1-0 win over Liverpool at Valley Parade in May 2000.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b7ff9a16-46ed-41db-8999-ec7a7476ffab/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/b7ff9a16-46ed-41db-8999-ec7a7476ffab/3-4" />
+    <episode-num system="xmltv_ns">.135.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129043000 +0100" stop="20261129050000 +0100" channel="ee_uk.409">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the women's giant slalom, part of the FIS Alpine Skiing World Cup at Killington Resort in Vermont.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69989c62-95a1-4b21-a9c1-bfb88529eff2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/69989c62-95a1-4b21-a9c1-bfb88529eff2/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129043000 +0100" stop="20261129050000 +0100" channel="ee_uk.410">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1148c34c-d1eb-4178-87cb-524e1dfa1f54/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1148c34c-d1eb-4178-87cb-524e1dfa1f54/3-4" />
+    <episode-num system="xmltv_ns">2025.13.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129043000 +0100" stop="20261129050000 +0100" channel="ee_uk.411">
+    <title lang="en">The Football Archives: UCL 1998/99</title>
+    <desc lang="en">This episode of The Football Archives takes a look at the 1998/99 UEFA Champions League season, which produced an unforgettable final at Camp Nou.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db3e1f0d-6c78-4629-b457-6ed3a1f024e3/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/db3e1f0d-6c78-4629-b457-6ed3a1f024e3/3-4" />
+    <episode-num system="xmltv_ns">2019.6.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129044500 +0100" stop="20261129050000 +0100" channel="ee_uk.420">
+    <title lang="en">PL Greatest:A Villa/Birmingham '08</title>
+    <desc lang="en">Aston Villa: Enjoy the greatest Premier League game for each of the league's 49 clubs, as voted for by fans. For Aston Villa, the 5-1 hammering of rivals Birmingham City back in April 2008.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/50ec2602-a963-4bf6-8e60-2b5ff7b2b09f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/50ec2602-a963-4bf6-8e60-2b5ff7b2b09f/3-4" />
+    <episode-num system="xmltv_ns">.137.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129050000 +0100" stop="20261129060000 +0100" channel="ee_uk.420">
+    <title lang="en">Best Premier League Goals 15/16</title>
+    <desc lang="en">A look back at some of the best Premier League goals in seasons gone by. Here, take a look at the best strikes from the 2015-16 season, as Leicester stunned the world with their title win.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3a2deec-b898-4946-b958-d106c021d530/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e3a2deec-b898-4946-b958-d106c021d530/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129050000 +0100" stop="20261129053000 +0100" channel="ee_uk.409">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run two of the women's giant slalom as the Alpine Skiing World Cup makes its fourth stop of the season in Killington, USA.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/75f0af16-23de-4849-a3d9-2dbd874f703d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/75f0af16-23de-4849-a3d9-2dbd874f703d/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129050000 +0100" stop="20261129051500 +0100" channel="ee_uk.410">
+    <title lang="en">MotoGP Rewind: Portugal 2026</title>
+    <desc lang="en">A look back at the best action from the penultimate round of the MotoGP season at Autodromo Internacional do Algarve.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ab3cf13-9390-4a9e-99a5-9362da4fb4ab/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/4ab3cf13-9390-4a9e-99a5-9362da4fb4ab/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129050000 +0100" stop="20261129053000 +0100" channel="ee_uk.411">
+    <title lang="en">The Football Archives: UCL 1999/00</title>
+    <desc lang="en">This episode of The Football Archives takes a look at the 1999/00 UEFA Champions League season. A Real Madrid side featuring Roberto Carlos and Raul were among the favourites.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92b7a92c-9184-4e84-9511-728f088bc5ab/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/92b7a92c-9184-4e84-9511-728f088bc5ab/3-4" />
+    <episode-num system="xmltv_ns">2019.7.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129051500 +0100" stop="20261129054500 +0100" channel="ee_uk.410">
+    <title lang="en">MotoGP: Valencia Sprint Race</title>
+    <desc lang="en">Sprint race action from the 2026 MotoGP Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e733429-33f5-43b3-8c0f-58ad0fa72262/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/9e733429-33f5-43b3-8c0f-58ad0fa72262/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129053000 +0100" stop="20261129060000 +0100" channel="ee_uk.409">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Action from the men's super G, part of the 2026 FIS Alpine Skiing World Cup in Copper Mountain, Colorado.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129053000 +0100" stop="20261129070000 +0100" channel="ee_uk.411">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Action from the last 16 of the 36Vegas Mixed Pairs as Megan Proctor and Liam White seek to defend their crown in a tough group that also includes 2025's beaten finalists.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db23c84f-3a79-4c28-b813-0e2f19bd9b64/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/db23c84f-3a79-4c28-b813-0e2f19bd9b64/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129054500 +0100" stop="20261129074500 +0100" channel="ee_uk.410">
+    <title lang="en">Live: Supercars Championship</title>
+    <desc lang="en">Action from the 2026 bp Adelaide Grand Final and race 37 of the Repco Supercars Championship. Who will top the podium in the final race of the season?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5f3ff1ec-d82d-47dd-a5b3-01b68c42214c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5f3ff1ec-d82d-47dd-a5b3-01b68c42214c/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129060000 +0100" stop="20261129063000 +0100" channel="virgin_uk.2265">
+    <title lang="en">SPFL 2017/18: Hibernian v Celtic</title>
+    <desc lang="en">Relive some classic action from the Scottish Premiership. Here, rewind to December 2017 and a memorable four-goal encounter between Hibs and Celtic at Easter Road.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7dddf1ce-e7c3-4e97-b36d-be29a57a8a5b/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7dddf1ce-e7c3-4e97-b36d-be29a57a8a5b/3-4" />
+    <episode-num system="xmltv_ns">.25.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129060000 +0100" stop="20261129063000 +0100" channel="ee_uk.420">
+    <title lang="en">PL Legends: Shearer</title>
+    <desc lang="en">Series profiling some of the greatest players to grace the Barclays Premier League. Here the focus is on former Blackburn Rovers and Newcastle United striker Alan Shearer.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/50752e2d-e323-4d24-b83d-20faebbb8191/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/50752e2d-e323-4d24-b83d-20faebbb8191/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129060000 +0100" stop="20261129073000 +0100" channel="ee_uk.409">
+    <title lang="en">Live: Snowboard World Cup</title>
+    <desc lang="en">Action from the team mixed parallel giant slalom, part of the Snowboard World Cup at the National Ski Jumping Center in Zhangjiakou, China.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/988b0154-f652-42b5-83be-7aca6191916c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/988b0154-f652-42b5-83be-7aca6191916c/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129063000 +0100" stop="20261129064500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 16/17: Aston Villa v N. Forest</title>
+    <desc lang="en">A look back at some classic matches from the English Football League. Here, Aston Villa play Nottingham Forest in a thrilling draw in September 2016 in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f9f8c14-dd93-47b3-aec6-508ce4e5c458/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6f9f8c14-dd93-47b3-aec6-508ce4e5c458/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129063000 +0100" stop="20261129070000 +0100" channel="ee_uk.420">
+    <title lang="en">PL 100: David Seaman</title>
+    <desc lang="en">In the fifth episode of PL100, we sit down with David Seaman who kept 141 clean sheets in 344 appearances in the English Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4652a9bc-e126-4ca1-a47a-bc0ed740aea6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/4652a9bc-e126-4ca1-a47a-bc0ed740aea6/3-4" />
+    <episode-num system="xmltv_ns">1.86.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129064500 +0100" stop="20261129070000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 16/17: Cardiff v Bristol City</title>
+    <desc lang="en">Relive some classic matches in English football. Here, Cardiff City face Bristol City in a Severnside derby in the Sky Bet Championship, in what was Neil Warnock's first game at Cardiff.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/02bb94e2-1d3f-4fa9-bdcd-7bec416ae4c6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/02bb94e2-1d3f-4fa9-bdcd-7bec416ae4c6/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261129070000 +0100" stop="20261129071500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: West Ham v Stoke City</title>
+    <desc lang="en">West Ham play host to Stoke City at the London Stadium in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6760afc8-f132-4f49-b092-5449100f8d6e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6760afc8-f132-4f49-b092-5449100f8d6e/3-4" />
+    <episode-num system="xmltv_ns">.243.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129070000 +0100" stop="20261129073000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Leeds v Coventry Highlights</title>
+    <desc lang="en">Leeds United play host to Coventry City at Elland Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/3-4" />
+    <episode-num system="xmltv_ns">2025.420.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129070000 +0100" stop="20261129073000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Leeds v Coventry Highlights</title>
+    <desc lang="en">Leeds United play host to Coventry City at Elland Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/3-4" />
+    <episode-num system="xmltv_ns">2025.420.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129070000 +0100" stop="20261129080000 +0100" channel="ee_uk.419">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/be97ad9e-7c76-485a-a1bb-474ebd09cf95/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/be97ad9e-7c76-485a-a1bb-474ebd09cf95/3-4" />
+    <episode-num system="xmltv_ns">.119.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129070000 +0100" stop="20261129080000 +0100" channel="ee_uk.408">
+    <title lang="en">UEL &amp; UECL Highlights Show</title>
+    <desc lang="en">Highlights of all the best action from the Europa League and the Conference League, including Celta v Bournemouth, Sunderland v Jagiellonia and Crystal Palace v Real Sociedad.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/43dce3cf-7f57-40a4-9577-b378237f6bb6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/43dce3cf-7f57-40a4-9577-b378237f6bb6/3-4" />
+    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129070000 +0100" stop="20261129071500 +0100" channel="ee_uk.411">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129071500 +0100" stop="20261129073000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Wrexham v Portsmouth</title>
+    <desc lang="en">Wrexham play host to Portsmouth at the SToK Racecourse in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26b07372-d8ac-4bb9-926d-95dbbb2c9999/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/26b07372-d8ac-4bb9-926d-95dbbb2c9999/3-4" />
+    <episode-num system="xmltv_ns">.244.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129071500 +0100" stop="20261129074500 +0100" channel="ee_uk.411">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the women's giant slalom, part of the FIS Alpine Skiing World Cup at Killington Resort in Vermont.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69989c62-95a1-4b21-a9c1-bfb88529eff2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/69989c62-95a1-4b21-a9c1-bfb88529eff2/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129073000 +0100" stop="20261129074500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Southampton v M'boro</title>
+    <desc lang="en">Southampton play host to Middlesbrough at St Mary's in the Sky Bet Championship. (27.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a24a2d34-f9b7-4b45-9735-6a351479bc86/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a24a2d34-f9b7-4b45-9735-6a351479bc86/3-4" />
+    <episode-num system="xmltv_ns">.234.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129073000 +0100" stop="20261129080000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Man United v Brentford Hlts</title>
+    <desc lang="en">Manchester United play host to Brentford at Old Trafford in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/3-4" />
+    <episode-num system="xmltv_ns">2025.421.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129073000 +0100" stop="20261129080000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Man United v Brentford Hlts</title>
+    <desc lang="en">Manchester United play host to Brentford at Old Trafford in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/3-4" />
+    <episode-num system="xmltv_ns">2025.421.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129073000 +0100" stop="20261129080000 +0100" channel="ee_uk.409">
+    <title lang="en">SailGP - Racing On The Edge</title>
+    <desc lang="en">An unprecedented look at SailGP and the sport's best athletes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sailing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cbb3b199-abf7-40b0-8f05-a641c4423b48/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/cbb3b199-abf7-40b0-8f05-a641c4423b48/3-4" />
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129074500 +0100" stop="20261129080000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Preston NE v Norwich</title>
+    <desc lang="en">Preston North End play host to Norwich City at Deepdale in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64246687-83be-4e5d-9830-ddc4946b16ee/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/64246687-83be-4e5d-9830-ddc4946b16ee/3-4" />
+    <episode-num system="xmltv_ns">.235.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129074500 +0100" stop="20261129080000 +0100" channel="ee_uk.410">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129074500 +0100" stop="20261129081500 +0100" channel="ee_uk.411">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run two of the women's giant slalom as the Alpine Skiing World Cup makes its fourth stop of the season in Killington, USA.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/75f0af16-23de-4849-a3d9-2dbd874f703d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/75f0af16-23de-4849-a3d9-2dbd874f703d/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129081500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Lincoln City v Wolves</title>
+    <desc lang="en">Lincoln City play host to Wolves at the ProAmpac Stadium in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0e7744aa-2c93-46e7-b043-2f205ec44b49/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/0e7744aa-2c93-46e7-b043-2f205ec44b49/3-4" />
+    <episode-num system="xmltv_ns">.236.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129083000 +0100" channel="ee_uk.420">
+    <title lang="en">FNF: Nott'm Forest v Chelsea Hlts</title>
+    <desc lang="en">On Friday Night Football, Nottingham Forest play host to Chelsea at the City Ground in the Premier League. (27.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fbef821-8178-450f-8903-8aa0538d6c22/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/0fbef821-8178-450f-8903-8aa0538d6c22/3-4" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129083000 +0100" channel="virgin_uk.2258">
+    <title lang="en">FNF: Nott'm Forest v Chelsea Hlts</title>
+    <desc lang="en">On Friday Night Football, Nottingham Forest play host to Chelsea at the City Ground in the Premier League. (27.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fbef821-8178-450f-8903-8aa0538d6c22/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/0fbef821-8178-450f-8903-8aa0538d6c22/3-4" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129090000 +0100" channel="ee_uk.419">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a8cb8feb-8cea-4b63-8b49-c0b8a4a0af2f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a8cb8feb-8cea-4b63-8b49-c0b8a4a0af2f/3-4" />
+    <episode-num system="xmltv_ns">.121.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129083000 +0100" channel="ee_uk.408">
+    <title lang="en">PL Stories: Frank Lampard</title>
+    <desc lang="en">Coventry City manager Frank Lampard reflects on an illustrious playing career that saw him become Chelsea's all-time leading goalscorer and one of England's greatest midfielders.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd8e0f10-08fb-4575-8cf8-ea51db327dae/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/dd8e0f10-08fb-4575-8cf8-ea51db327dae/3-4" />
+    <episode-num system="xmltv_ns">5.25.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129083000 +0100" channel="ee_uk.409">
+    <title lang="en">Cyclocross World Cup</title>
+    <desc lang="en">Action from the UCI Cyclo-cross World Cup in Ostrava, Czechia, as the world's leading riders battle for victory in the women's race on the sport's premier circuit.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/239b3a37-2d1b-47d7-8735-0da72c90b17c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/239b3a37-2d1b-47d7-8735-0da72c90b17c/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129080000 +0100" stop="20261129090000 +0100" channel="ee_uk.410">
+    <title lang="en">Australia v England - 3rd T20</title>
+    <desc lang="en">Australia T20 International Cricket action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a00b0be8-5b0d-4e2c-be6b-436a7059ecd2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a00b0be8-5b0d-4e2c-be6b-436a7059ecd2/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129081500 +0100" stop="20261129083000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Blackburn v Charlton</title>
+    <desc lang="en">Blackburn Rovers play host to Charlton Athletic at Ewood Park in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce2120ff-ec3d-4cf8-b313-13926d493716/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ce2120ff-ec3d-4cf8-b313-13926d493716/3-4" />
+    <episode-num system="xmltv_ns">.237.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129081500 +0100" stop="20261129084500 +0100" channel="ee_uk.411">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Action from the men's super G, part of the 2026 FIS Alpine Skiing World Cup in Copper Mountain, Colorado.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129083000 +0100" stop="20261129084500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Birmingham v Bolton</title>
+    <desc lang="en">Birmingham City play host to Bolton at St Andrew's in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c669925e-2aa4-43be-85f0-dbb8704e397a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/c669925e-2aa4-43be-85f0-dbb8704e397a/3-4" />
+    <episode-num system="xmltv_ns">.238.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129083000 +0100" stop="20261129090000 +0100" channel="ee_uk.420">
+    <title lang="en">SNF: Ipswich v Aston Villa Hlts</title>
+    <desc lang="en">On Saturday Night Football, Ipswich Town play host to Aston Villa at Portman Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129083000 +0100" stop="20261129090000 +0100" channel="virgin_uk.2258">
+    <title lang="en">SNF: Ipswich v Aston Villa Hlts</title>
+    <desc lang="en">On Saturday Night Football, Ipswich Town play host to Aston Villa at Portman Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7ad4fa46-cbd3-4634-aab0-fccd12c55a50/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129083000 +0100" stop="20261129090000 +0100" channel="ee_uk.408">
+    <title lang="en">The Big Interview: Lewis Hall</title>
+    <desc lang="en">Newcastle United left-back Lewis Hall talks about starting his professional journey with Chelsea and how a call from the Magpies made his family's dreams come true.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dec5c39-9753-4d20-8bbb-fd2b8bbc13cc/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/2dec5c39-9753-4d20-8bbb-fd2b8bbc13cc/3-4" />
+    <episode-num system="xmltv_ns">25.15.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129083000 +0100" stop="20261129090000 +0100" channel="ee_uk.409">
+    <title lang="en">Cyclocross World Cup</title>
+    <desc lang="en">The UCI Cyclo-cross World Cup heads to Ostrava, Czechia, where an elite field of riders goes head-to-head in the men's race.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d60e1e9-1fe8-4587-9b2f-f0c5581fa8d3/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5d60e1e9-1fe8-4587-9b2f-f0c5581fa8d3/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129084500 +0100" stop="20261129090000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Derby County v Watford</title>
+    <desc lang="en">Derby County play host to Watford at Pride Park in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1545135a-e034-4003-aacd-f1b68304553c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1545135a-e034-4003-aacd-f1b68304553c/3-4" />
+    <episode-num system="xmltv_ns">.239.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129084500 +0100" stop="20261129093000 +0100" channel="ee_uk.411">
+    <title lang="en">Live: Nordic Combined Skiing WC</title>
+    <desc lang="en">Action from the men's mass start 10km at the FIS Nordic Combined Skiing World Cup in Ruka, Finland.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c3d4348-1a20-4dc0-9018-af3e64ecf425/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/9c3d4348-1a20-4dc0-9018-af3e64ecf425/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129091500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Millwall v Burnley</title>
+    <desc lang="en">Millwall play host to Burnley at the Den in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5b57c4fb-4603-42c8-9634-79242c9c63bc/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5b57c4fb-4603-42c8-9634-79242c9c63bc/3-4" />
+    <episode-num system="xmltv_ns">.240.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129093000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Leeds v Coventry Highlights</title>
+    <desc lang="en">Leeds United play host to Coventry City at Elland Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/3-4" />
+    <episode-num system="xmltv_ns">2025.420.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129093000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Leeds v Coventry Highlights</title>
+    <desc lang="en">Leeds United play host to Coventry City at Elland Road in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f4e17ef8-27c1-45fd-990f-346b43072004/3-4" />
+    <episode-num system="xmltv_ns">2025.420.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129100000 +0100" channel="ee_uk.419">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a8cb8feb-8cea-4b63-8b49-c0b8a4a0af2f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a8cb8feb-8cea-4b63-8b49-c0b8a4a0af2f/3-4" />
+    <episode-num system="xmltv_ns">.121.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129113000 +0100" channel="ee_uk.408">
+    <title lang="en">Live 4th T20: Australia v England</title>
+    <desc lang="en">Action from the fourth T20 between Australia and England at the SCG.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d5e712e2-d371-4877-b661-02b8cbcd5492/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/d5e712e2-d371-4877-b661-02b8cbcd5492/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129093000 +0100" channel="ee_uk.409">
+    <title lang="en">MotoGP: Valencia Sprint Race</title>
+    <desc lang="en">Sprint race action from the 2026 MotoGP Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e733429-33f5-43b3-8c0f-58ad0fa72262/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/9e733429-33f5-43b3-8c0f-58ad0fa72262/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129090000 +0100" stop="20261129124500 +0100" channel="ee_uk.410">
+    <title lang="en">Live 4th T20: Australia v England</title>
+    <desc lang="en">Action from the fourth T20 between Australia and England at the SCG.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d5e712e2-d371-4877-b661-02b8cbcd5492/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/d5e712e2-d371-4877-b661-02b8cbcd5492/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129091500 +0100" stop="20261129093000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: QPR  v Sheffield United</title>
+    <desc lang="en">Queens Park Rangers play host to Sheffield United at Loftus Road in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/350cace9-1cf2-4e7b-816c-8d29b86b1b64/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/350cace9-1cf2-4e7b-816c-8d29b86b1b64/3-4" />
+    <episode-num system="xmltv_ns">.241.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129093000 +0100" stop="20261129094500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27:West Brom v Bristol City</title>
+    <desc lang="en">West Brom play host to Bristol City at the Hawthorns in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fb0625d5-5f78-4971-baa3-5d8c9d49d976/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/fb0625d5-5f78-4971-baa3-5d8c9d49d976/3-4" />
+    <episode-num system="xmltv_ns">.242.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129093000 +0100" stop="20261129100000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Man United v Brentford Hlts</title>
+    <desc lang="en">Manchester United play host to Brentford at Old Trafford in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/3-4" />
+    <episode-num system="xmltv_ns">2025.421.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129093000 +0100" stop="20261129100000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Man United v Brentford Hlts</title>
+    <desc lang="en">Manchester United play host to Brentford at Old Trafford in the Premier League. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/68845890-3385-4e64-9ede-a836077d7fa4/3-4" />
+    <episode-num system="xmltv_ns">2025.421.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129093000 +0100" stop="20261129100000 +0100" channel="ee_uk.409">
+    <title lang="en">Live MotoGP: Valencia Warmup</title>
+    <desc lang="en">Action from the warm-up session ahead of the 2026 MotoGP Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6dcb4cf8-c5f3-4eab-85cb-c1cd389e61ce/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6dcb4cf8-c5f3-4eab-85cb-c1cd389e61ce/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129093000 +0100" stop="20261129094500 +0100" channel="ee_uk.411">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129094500 +0100" stop="20261129100000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: West Ham v Stoke City</title>
+    <desc lang="en">West Ham play host to Stoke City at the London Stadium in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6760afc8-f132-4f49-b092-5449100f8d6e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6760afc8-f132-4f49-b092-5449100f8d6e/3-4" />
+    <episode-num system="xmltv_ns">.243.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129094500 +0100" stop="20261129110000 +0100" channel="ee_uk.411">
+    <title lang="en">Live: Cross Country Skiing WC</title>
+    <desc lang="en">The opening weekend of the 2026/27 Cross-Country World Cup ends with the men's 20 km freestyle mass start in Ruka, Finland. Who will finish the weekend on top?</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/154341c2-1c88-4665-a2ef-11c9d991ab7e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/154341c2-1c88-4665-a2ef-11c9d991ab7e/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129100000 +0100" stop="20261129101500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Wrexham v Portsmouth</title>
+    <desc lang="en">Wrexham play host to Portsmouth at the SToK Racecourse in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26b07372-d8ac-4bb9-926d-95dbbb2c9999/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/26b07372-d8ac-4bb9-926d-95dbbb2c9999/3-4" />
+    <episode-num system="xmltv_ns">.244.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129100000 +0100" stop="20261129120000 +0100" channel="ee_uk.420">
+    <title lang="en">Sunday Supplement</title>
+    <desc lang="en">The UK's top sports journalists dissect the stories in the Sunday newspapers, offering insight, opinion and in-depth analysis. Essential viewing for fans who want more than just the score.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d751699-ebc1-475d-b577-7bc8a681c225/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5d751699-ebc1-475d-b577-7bc8a681c225/3-4" />
+    <episode-num system="xmltv_ns">2025.37.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129100000 +0100" stop="20261129120000 +0100" channel="virgin_uk.2258">
+    <title lang="en">Sunday Supplement</title>
+    <desc lang="en">The UK's top sports journalists dissect the stories in the Sunday newspapers, offering insight, opinion and in-depth analysis. Essential viewing for fans who want more than just the score.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d751699-ebc1-475d-b577-7bc8a681c225/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5d751699-ebc1-475d-b577-7bc8a681c225/3-4" />
+    <episode-num system="xmltv_ns">2025.37.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129100000 +0100" stop="20261129120000 +0100" channel="ee_uk.419">
+    <title lang="en">Sunday Supplement</title>
+    <desc lang="en">The UK's top sports journalists dissect the stories in the Sunday newspapers, offering insight, opinion and in-depth analysis. Essential viewing for fans who want more than just the score.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d751699-ebc1-475d-b577-7bc8a681c225/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5d751699-ebc1-475d-b577-7bc8a681c225/3-4" />
+    <episode-num system="xmltv_ns">2025.37.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129100000 +0100" stop="20261129120000 +0100" channel="ee_uk.409">
+    <title lang="en">Live Moto3: GP of Valencia</title>
+    <desc lang="en">Race action from the 2026 Moto3 Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bf8bbcec-d020-42b1-9f26-d399e6def8eb/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/bf8bbcec-d020-42b1-9f26-d399e6def8eb/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129101500 +0100" stop="20261129103000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Southampton v M'boro</title>
+    <desc lang="en">Southampton play host to Middlesbrough at St Mary's in the Sky Bet Championship. (27.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a24a2d34-f9b7-4b45-9735-6a351479bc86/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a24a2d34-f9b7-4b45-9735-6a351479bc86/3-4" />
+    <episode-num system="xmltv_ns">.234.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129103000 +0100" stop="20261129104500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Preston NE v Norwich</title>
+    <desc lang="en">Preston North End play host to Norwich City at Deepdale in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64246687-83be-4e5d-9830-ddc4946b16ee/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/64246687-83be-4e5d-9830-ddc4946b16ee/3-4" />
+    <episode-num system="xmltv_ns">.235.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129104500 +0100" stop="20261129110000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Lincoln City v Wolves</title>
+    <desc lang="en">Lincoln City play host to Wolves at the ProAmpac Stadium in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0e7744aa-2c93-46e7-b043-2f205ec44b49/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/0e7744aa-2c93-46e7-b043-2f205ec44b49/3-4" />
+    <episode-num system="xmltv_ns">.236.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129110000 +0100" stop="20261129111500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Blackburn v Charlton</title>
+    <desc lang="en">Blackburn Rovers play host to Charlton Athletic at Ewood Park in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce2120ff-ec3d-4cf8-b313-13926d493716/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ce2120ff-ec3d-4cf8-b313-13926d493716/3-4" />
+    <episode-num system="xmltv_ns">.237.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129110000 +0100" stop="20261129123000 +0100" channel="ee_uk.411">
+    <title lang="en">Live: Rolex SailGP Championship</title>
+    <desc lang="en">The 2026 SailGP champions are crowned in Abu Dhabi, a year after Emirates Great Britain won their first title here. Who will lift the trophy in the winner-takes-all Grand Final?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sailing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b0a8eca1-66fc-48dd-9bac-c1692b7063c1/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/b0a8eca1-66fc-48dd-9bac-c1692b7063c1/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129111500 +0100" stop="20261129113000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Birmingham v Bolton</title>
+    <desc lang="en">Birmingham City play host to Bolton at St Andrew's in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c669925e-2aa4-43be-85f0-dbb8704e397a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/c669925e-2aa4-43be-85f0-dbb8704e397a/3-4" />
+    <episode-num system="xmltv_ns">.238.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129113000 +0100" stop="20261129114500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Derby County v Watford</title>
+    <desc lang="en">Derby County play host to Watford at Pride Park in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1545135a-e034-4003-aacd-f1b68304553c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1545135a-e034-4003-aacd-f1b68304553c/3-4" />
+    <episode-num system="xmltv_ns">.239.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129113000 +0100" stop="20261129153000 +0100" channel="ee_uk.408">
+    <title lang="en">Live PL: Everton v Liverpool</title>
+    <desc lang="en">Action from the Merseyside derby between Everton and Liverpool at the Hill Dickinson Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97b7ad11-5e65-478b-b992-ecac0591517c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/97b7ad11-5e65-478b-b992-ecac0591517c/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129114500 +0100" stop="20261129120000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Millwall v Burnley</title>
+    <desc lang="en">Millwall play host to Burnley at the Den in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5b57c4fb-4603-42c8-9634-79242c9c63bc/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5b57c4fb-4603-42c8-9634-79242c9c63bc/3-4" />
+    <episode-num system="xmltv_ns">.240.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129120000 +0100" stop="20261129121500 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: West Ham v Stoke City</title>
+    <desc lang="en">West Ham play host to Stoke City at the London Stadium in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6760afc8-f132-4f49-b092-5449100f8d6e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/6760afc8-f132-4f49-b092-5449100f8d6e/3-4" />
+    <episode-num system="xmltv_ns">.243.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129120000 +0100" stop="20261129123000 +0100" channel="ee_uk.420">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129120000 +0100" stop="20261129123000 +0100" channel="virgin_uk.2258">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129120000 +0100" stop="20261129123000 +0100" channel="ee_uk.419">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129120000 +0100" stop="20261129131500 +0100" channel="ee_uk.409">
+    <title lang="en">Live Moto2: GP of Valencia</title>
+    <desc lang="en">Race action from the 2026 Moto2 Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bb62a3b6-c8a2-472f-a4b6-273119ca011d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/bb62a3b6-c8a2-472f-a4b6-273119ca011d/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129121500 +0100" stop="20261129123000 +0100" channel="virgin_uk.2265">
+    <title lang="en">EFL 26/27: Wrexham v Portsmouth</title>
+    <desc lang="en">Wrexham play host to Portsmouth at the SToK Racecourse in the Sky Bet Championship. (28.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26b07372-d8ac-4bb9-926d-95dbbb2c9999/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/26b07372-d8ac-4bb9-926d-95dbbb2c9999/3-4" />
+    <episode-num system="xmltv_ns">.244.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129123000 +0100" stop="20261129153000 +0100" channel="virgin_uk.2265">
+    <title lang="en">Live EFL: Swansea City v Cardiff</title>
+    <desc lang="en">Swansea City play host to Cardiff City at the Swansea.com Stadium in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f3fa104c-6447-49d6-87ee-c44ef76a25e0/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f3fa104c-6447-49d6-87ee-c44ef76a25e0/3-4" />
+    <episode-num system="xmltv_ns">.61.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129123000 +0100" stop="20261129130000 +0100" channel="ee_uk.420">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129123000 +0100" stop="20261129130000 +0100" channel="virgin_uk.2258">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129123000 +0100" stop="20261129150000 +0100" channel="ee_uk.419">
+    <title lang="en">Live EFL: Swansea City v Cardiff</title>
+    <desc lang="en">Swansea City play host to Cardiff City at the Swansea.com Stadium in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f3fa104c-6447-49d6-87ee-c44ef76a25e0/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f3fa104c-6447-49d6-87ee-c44ef76a25e0/3-4" />
+    <episode-num system="xmltv_ns">.61.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129123000 +0100" stop="20261129124500 +0100" channel="ee_uk.411">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129124500 +0100" stop="20261129130000 +0100" channel="ee_uk.410">
+    <title lang="en">Playing For Our Future - Rugby</title>
+    <desc lang="en">What does the future hold for rugby in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how rugby can be a positive force for change.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f90cc044-199b-4505-af78-08efb754cb83/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f90cc044-199b-4505-af78-08efb754cb83/3-4" />
+    <episode-num system="xmltv_ns">1.59.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129124500 +0100" stop="20261129141500 +0100" channel="ee_uk.411">
+    <title lang="en">Live Cyclocross: Tabor</title>
+    <desc lang="en">Action from the UCI Cyclo-cross World Cup in Tabor, Czechia, as the world's leading riders fight for victory in the women's race.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e4d2997f-9061-417b-b891-52be5d42e005/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e4d2997f-9061-417b-b891-52be5d42e005/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129130000 +0100" stop="20261129140000 +0100" channel="ee_uk.420">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129130000 +0100" stop="20261129140000 +0100" channel="virgin_uk.2258">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ed46d931-243d-47ca-9f18-42db23bfcc90/3-4" />
+    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129130000 +0100" stop="20261129133000 +0100" channel="ee_uk.410">
+    <title lang="en">The Breakdown: Northampton</title>
+    <desc lang="en">Chris Ashton joins David Flatman as they go behind the scenes for training at the Northampton Saints and meet the pool of young talent that have come from their prospering academy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/646a7251-2ea9-4db6-8f9f-35bb4417a848/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/646a7251-2ea9-4db6-8f9f-35bb4417a848/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129131500 +0100" stop="20261129160000 +0100" channel="ee_uk.409">
+    <title lang="en">Live MotoGP: GP of Valencia</title>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cadc982b-6c9f-46fe-9931-688722bb80f4/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/cadc982b-6c9f-46fe-9931-688722bb80f4/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129133000 +0100" stop="20261129140000 +0100" channel="ee_uk.410">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1148c34c-d1eb-4178-87cb-524e1dfa1f54/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1148c34c-d1eb-4178-87cb-524e1dfa1f54/3-4" />
+    <episode-num system="xmltv_ns">2025.13.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129140000 +0100" stop="20261129170000 +0100" channel="ee_uk.420">
+    <title lang="en">Live PL: Brighton v Newcastle Utd</title>
+    <desc lang="en">On Super Sunday, Brighton play host to Newcastle United at the Amex Stadium in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ae11dbc-3f44-467e-8e55-c0b1c200b131/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1ae11dbc-3f44-467e-8e55-c0b1c200b131/3-4" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129140000 +0100" stop="20261129170000 +0100" channel="virgin_uk.2258">
+    <title lang="en">Live PL: Brighton v Newcastle Utd</title>
+    <desc lang="en">On Super Sunday, Brighton play host to Newcastle United at the Amex Stadium in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ae11dbc-3f44-467e-8e55-c0b1c200b131/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/1ae11dbc-3f44-467e-8e55-c0b1c200b131/3-4" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129140000 +0100" stop="20261129173000 +0100" channel="ee_uk.410">
+    <title lang="en">Live Snooker: UK Championship</title>
+    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/700b5ce1-9d24-4afa-ae64-b2688e0dd598/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/700b5ce1-9d24-4afa-ae64-b2688e0dd598/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129141500 +0100" stop="20261129143000 +0100" channel="ee_uk.411">
+    <title lang="en">Cycling Essential Stories</title>
+    <desc lang="en">An animated series revisiting cycling's greatest legends and the most unforgettable moments of the Tour de France.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b5b7fc8a-3110-4ef5-b8e7-6523c15d6683/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/b5b7fc8a-3110-4ef5-b8e7-6523c15d6683/3-4" />
+    <episode-num system="xmltv_ns">25.0.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129143000 +0100" stop="20261129150000 +0100" channel="ee_uk.411">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129150000 +0100" stop="20261129170000 +0100" channel="ee_uk.419">
+    <title lang="en">Live PL: Sunderland v Spurs</title>
+    <desc lang="en">Sunderland play host to Spurs at the Stadium of Light in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9ccb5063-9d3c-4167-adb6-540375cac994/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/9ccb5063-9d3c-4167-adb6-540375cac994/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129150000 +0100" stop="20261129191500 +0100" channel="ee_uk.411">
+    <title lang="en">ILT20</title>
+    <desc lang="en">Action from the International League T20, a 20-over cricket tournament in the United Arab Emirates.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/589784d7-5972-4417-b891-a1c790a2e1c6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/589784d7-5972-4417-b891-a1c790a2e1c6/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129153000 +0100" stop="20261129190000 +0100" channel="virgin_uk.2265">
+    <title lang="en">Live SPFL: Hearts v Celtic</title>
+    <desc lang="en">Hearts play host to Celtic in the Scottish Premiership.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ec9f2066-56dd-4d95-bc36-8b611fc1480a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ec9f2066-56dd-4d95-bc36-8b611fc1480a/3-4" />
+    <episode-num system="xmltv_ns">.22.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129153000 +0100" stop="20261129161500 +0100" channel="ee_uk.408">
+    <title lang="en">Live Bobsleigh: IBSF World Cup</title>
+    <desc lang="en">Action from the four-man bobsleigh at the IBSF World Cup opener in Altenberg, Germany, as Great Britain's Brad Hall and his crew look to start the season strongly.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c34a7b00-9f54-4629-9c51-be68df1feff9/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/c34a7b00-9f54-4629-9c51-be68df1feff9/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129160000 +0100" stop="20261129163000 +0100" channel="ee_uk.409">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Action from the men's super G, part of the 2026 FIS Alpine Skiing World Cup in Copper Mountain, Colorado.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/883574cc-c29f-4aa1-afa3-e4136b29185f/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129161500 +0100" stop="20261129163000 +0100" channel="ee_uk.408">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <desc lang="en">We revisit the best batting action from the first Test between New Zealand and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd39e1fb-c3f4-40dc-a95a-ed9a810eff50/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/dd39e1fb-c3f4-40dc-a95a-ed9a810eff50/3-4" />
+    <episode-num system="xmltv_ns">24.220.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129163000 +0100" stop="20261129164500 +0100" channel="ee_uk.408">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <desc lang="en">A look at the best bowling action from the first Test between New Zealand and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a6ed89c8-2f30-484f-b6eb-82167c1355a6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a6ed89c8-2f30-484f-b6eb-82167c1355a6/3-4" />
+    <episode-num system="xmltv_ns">24.221.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129163000 +0100" stop="20261129180000 +0100" channel="ee_uk.409">
+    <title lang="en">Live: Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the women's slalom as the Alpine Skiing World Cup makes its fourth stop of the season in Killington, USA.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/49f77fda-c92d-4c3e-9a4f-cd3692e2db2d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/49f77fda-c92d-4c3e-9a4f-cd3692e2db2d/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129164500 +0100" stop="20261129170000 +0100" channel="ee_uk.408">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129170000 +0100" stop="20261129210000 +0100" channel="ee_uk.420">
+    <title lang="en">Live PL: Arsenal v Manchester City</title>
+    <desc lang="en">On Super Sunday, Arsenal play host to Manchester City at the Emirates Stadium in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3ff09d9-676a-43a3-960f-e66fcb27547a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e3ff09d9-676a-43a3-960f-e66fcb27547a/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129170000 +0100" stop="20261129210000 +0100" channel="virgin_uk.2258">
+    <title lang="en">Live PL: Arsenal v Manchester City</title>
+    <desc lang="en">On Super Sunday, Arsenal play host to Manchester City at the Emirates Stadium in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3ff09d9-676a-43a3-960f-e66fcb27547a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e3ff09d9-676a-43a3-960f-e66fcb27547a/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129170000 +0100" stop="20261129203000 +0100" channel="ee_uk.419">
+    <title lang="en">Live PL: Arsenal v Manchester City</title>
+    <desc lang="en">On Super Sunday, Arsenal play host to Manchester City at the Emirates Stadium in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3ff09d9-676a-43a3-960f-e66fcb27547a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e3ff09d9-676a-43a3-960f-e66fcb27547a/3-4" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129170000 +0100" stop="20261129174500 +0100" channel="ee_uk.408">
+    <title lang="en">Live Bobsleigh: IBSF World Cup</title>
+    <desc lang="en">Great Britain's Brad Hall and his crew look to finish strongly in the second run of the four-man bobsleigh in Altenberg, Germany.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b87c8d80-cb0a-454b-80e5-946dac9da812/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/b87c8d80-cb0a-454b-80e5-946dac9da812/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129173000 +0100" stop="20261129183000 +0100" channel="ee_uk.410">
+    <title lang="en">Australia v England - 4th T20</title>
+    <desc lang="en">Action from the fourth T20 between Australia and England at the SCG.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5857d467-0183-4329-a59c-210f26832857/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5857d467-0183-4329-a59c-210f26832857/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129174500 +0100" stop="20261129193000 +0100" channel="ee_uk.408">
+    <title lang="en">Live: Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the giant slalom at Copper Mountain in Colorado, part of the men's FIS Alpine Skiing World Cup.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/687481a0-068b-4a8c-af09-b6428d9ff3d7/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/687481a0-068b-4a8c-af09-b6428d9ff3d7/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129180000 +0100" stop="20261129190000 +0100" channel="ee_uk.409">
+    <title lang="en">UEFA Champions League Highlights</title>
+    <desc lang="en">Highlights from Wednesday's UEFA Champions League fixtures, including Sporting v Man United, Club Brugge v Liverpool, and Sabah v Barcelona.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d003facc-e436-457a-b9ae-b2f1a96b691d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/d003facc-e436-457a-b9ae-b2f1a96b691d/3-4" />
+    <episode-num system="xmltv_ns">25.10.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129183000 +0100" stop="20261129193000 +0100" channel="ee_uk.410">
+    <title lang="en">2026 MotoGP Awards</title>
+    <desc lang="en">Coverage of the 2026 MotoGP Awards, celebrating the standout performers from the MotoGP, Moto2, and Moto3 World Championships.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/38fcdb53-0b3d-4357-b756-8c7c4f6b3437/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/38fcdb53-0b3d-4357-b756-8c7c4f6b3437/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129190000 +0100" stop="20261130013000 +0100" channel="virgin_uk.2265">
+    <title lang="en">Live NFL RedZone</title>
+    <desc lang="en">Follow the full story from a packed Sunday of action in the National Football League with all the key moments, live stats, analysis and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b17d05b-e9f9-4689-8b9a-0dc42cf557c3/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7b17d05b-e9f9-4689-8b9a-0dc42cf557c3/3-4" />
+    <episode-num system="xmltv_ns">2025.20.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129190000 +0100" stop="20261129191500 +0100" channel="ee_uk.409">
+    <title lang="en">Playing For Our Future - Football</title>
+    <desc lang="en">What does the future hold for football in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how football can be a force for change. 1/2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a5a97f6-a690-468d-8354-eb0d0180cfa6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/2a5a97f6-a690-468d-8354-eb0d0180cfa6/3-4" />
+    <episode-num system="xmltv_ns">1.54.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129191500 +0100" stop="20261129204500 +0100" channel="ee_uk.409">
+    <title lang="en">Live: Alpine Skiing World Cup</title>
+    <desc lang="en">Run two of the women's slalom as the Alpine Skiing World Cup makes its fourth stop of the season in Killington, USA.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/37450e47-5b22-420e-87ea-f1089a24cc28/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/37450e47-5b22-420e-87ea-f1089a24cc28/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129191500 +0100" stop="20261129194500 +0100" channel="ee_uk.411">
+    <title lang="en">The Rugby Breakdown: Best Of</title>
+    <desc lang="en">A look back at the best of The Rugby Breakdown, featuring exclusive behind-the-scenes access to Gallagher PREM sides and their players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/52f42855-0b3d-4d8a-81a1-cbeb5d933ff5/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/52f42855-0b3d-4d8a-81a1-cbeb5d933ff5/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129193000 +0100" stop="20261129203000 +0100" channel="ee_uk.408">
+    <title lang="en">Miracle of Istanbul</title>
+    <desc lang="en">20 years on from Liverpool's triumph in the 2005 UEFA Champions League final, we take a look back at the Miracle of Istanbul and one of the greatest comebacks in sporting history.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cebe4a2-b7cb-43bd-ae43-72c3f3ef6fe8/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/3cebe4a2-b7cb-43bd-ae43-72c3f3ef6fe8/3-4" />
+    <episode-num system="xmltv_ns">1.61.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129193000 +0100" stop="20261129200000 +0100" channel="ee_uk.410">
+    <title lang="en">PL Stories: Frank Lampard</title>
+    <desc lang="en">Coventry City manager Frank Lampard reflects on an illustrious playing career that saw him become Chelsea's all-time leading goalscorer and one of England's greatest midfielders.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd8e0f10-08fb-4575-8cf8-ea51db327dae/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/dd8e0f10-08fb-4575-8cf8-ea51db327dae/3-4" />
+    <episode-num system="xmltv_ns">5.25.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129194500 +0100" stop="20261129200000 +0100" channel="ee_uk.411">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <desc lang="en">A look at the best bowling action from the first Test between New Zealand and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a6ed89c8-2f30-484f-b6eb-82167c1355a6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a6ed89c8-2f30-484f-b6eb-82167c1355a6/3-4" />
+    <episode-num system="xmltv_ns">24.221.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129200000 +0100" stop="20261129233000 +0100" channel="ee_uk.410">
+    <title lang="en">Live Snooker: UK Championship</title>
+    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/08699060-74d8-4e9e-ae63-55e585169550/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/08699060-74d8-4e9e-ae63-55e585169550/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129200000 +0100" stop="20261129210000 +0100" channel="ee_uk.411">
+    <title lang="en">Australia v England - 4th T20</title>
+    <desc lang="en">Action from the fourth T20 between Australia and England at the SCG.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5857d467-0183-4329-a59c-210f26832857/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/5857d467-0183-4329-a59c-210f26832857/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129203000 +0100" stop="20261129224500 +0100" channel="ee_uk.408">
+    <title lang="en">Live Serie A: Como v Juventus</title>
+    <desc lang="en">Action from Serie A as Como take on Juventus.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/61c85d0b-d840-4596-a97b-e1f4f8d394fd/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/61c85d0b-d840-4596-a97b-e1f4f8d394fd/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129204500 +0100" stop="20261129221500 +0100" channel="ee_uk.409">
+    <title lang="en">Live: Alpine Skiing World Cup</title>
+    <desc lang="en">Action from run two of the giant slalom, part of the 2026 men's FIS Alpine Skiing World Cup in Copper Mountain, Colorado.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95c49792-9649-4dd4-ac9b-5276e0e5e476/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/95c49792-9649-4dd4-ac9b-5276e0e5e476/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129210000 +0100" stop="20261129220000 +0100" channel="ee_uk.420">
+    <title lang="en">New: PL 360: Di Canio's Ref Push</title>
+    <desc lang="en">In 1998, Paolo Di Canio pushed referee Paul Alcock over after being sent off. Find out why one of the Premier League's most infamous moments led to Di Canio's eventual move to West Ham.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d979f5d6-7de2-4fe2-99f4-9556c2d12a5c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/d979f5d6-7de2-4fe2-99f4-9556c2d12a5c/3-4" />
+    <episode-num system="xmltv_ns">2025.3.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20261129210000 +0100" stop="20261129220000 +0100" channel="virgin_uk.2258">
+    <title lang="en">New: PL 360: Di Canio's Ref Push</title>
+    <desc lang="en">In 1998, Paolo Di Canio pushed referee Paul Alcock over after being sent off. Find out why one of the Premier League's most infamous moments led to Di Canio's eventual move to West Ham.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d979f5d6-7de2-4fe2-99f4-9556c2d12a5c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/d979f5d6-7de2-4fe2-99f4-9556c2d12a5c/3-4" />
+    <episode-num system="xmltv_ns">2025.3.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20261129210000 +0100" stop="20261129220000 +0100" channel="ee_uk.411">
+    <title lang="en">2nd Test: New Zealand v India</title>
+    <desc lang="en">Test match cricket action from New Zealand.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c048be33-1b09-4eb3-8717-c24a2d43f6a5/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/c048be33-1b09-4eb3-8717-c24a2d43f6a5/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129220000 +0100" stop="20261129230000 +0100" channel="ee_uk.420">
+    <title lang="en">PL 360: Cantona's Kung-Fu Kick</title>
+    <desc lang="en">Eric Cantona's 'kung-fu' kick was a seismic moment in Premier League history. Relieve that night hearing from those who were there and find out how close the United star came to leaving.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/650b36cb-4d6b-48e7-8d6a-8f21acf2da1e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/650b36cb-4d6b-48e7-8d6a-8f21acf2da1e/3-4" />
+    <episode-num system="xmltv_ns">2025.2.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129220000 +0100" stop="20261129230000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL 360: Cantona's Kung-Fu Kick</title>
+    <desc lang="en">Eric Cantona's 'kung-fu' kick was a seismic moment in Premier League history. Relieve that night hearing from those who were there and find out how close the United star came to leaving.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/650b36cb-4d6b-48e7-8d6a-8f21acf2da1e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/650b36cb-4d6b-48e7-8d6a-8f21acf2da1e/3-4" />
+    <episode-num system="xmltv_ns">2025.2.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20261129220000 +0100" stop="20261129230000 +0100" channel="ee_uk.411">
+    <title lang="en">MotoGP: GP of Valencia</title>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Valencia at Circuit Ricardo Tormo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/01070144-5781-4b67-8577-7d9437312f54/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/01070144-5781-4b67-8577-7d9437312f54/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129221500 +0100" stop="20261129224500 +0100" channel="ee_uk.409">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129224500 +0100" stop="20261129233000 +0100" channel="ee_uk.408">
+    <title lang="en">Live Snooker: UK Championship</title>
+    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/08699060-74d8-4e9e-ae63-55e585169550/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/08699060-74d8-4e9e-ae63-55e585169550/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129224500 +0100" stop="20261130070000 +0100" channel="ee_uk.409">
+    <title lang="en">Live 2nd Test: New Zealand v India</title>
+    <desc lang="en">Test match cricket action from New Zealand.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/28b50a1c-4fa3-41b6-8a12-3adf0a285688/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/28b50a1c-4fa3-41b6-8a12-3adf0a285688/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129230000 +0100" stop="20261129233000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Brighton v Newcastle Higlights</title>
+    <desc lang="en">On Super Sunday, Brighton play host to Newcastle United at the Amex Stadium in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e8767664-7526-4296-89db-00ac4a9f0e8b/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e8767664-7526-4296-89db-00ac4a9f0e8b/3-4" />
+    <episode-num system="xmltv_ns">2025.423.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129230000 +0100" stop="20261129233000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Brighton v Newcastle Higlights</title>
+    <desc lang="en">On Super Sunday, Brighton play host to Newcastle United at the Amex Stadium in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e8767664-7526-4296-89db-00ac4a9f0e8b/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/e8767664-7526-4296-89db-00ac4a9f0e8b/3-4" />
+    <episode-num system="xmltv_ns">2025.423.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129230000 +0100" stop="20261130003000 +0100" channel="ee_uk.411">
+    <title lang="en">British Superbikes</title>
+    <desc lang="en">We take a look back at the biggest stories and best action from the 2026 British Superbike Championship, which saw Kyle Ryde win his third consecutive Riders' Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bd8bf99f-6d69-4230-901e-68be959e31da/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/bd8bf99f-6d69-4230-901e-68be959e31da/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129233000 +0100" stop="20261130000000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Fulham v Bournemouth Hlts</title>
+    <desc lang="en">Fulham play host to Bournemouth at Craven Cottage in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4af02150-3f20-4459-a593-184fab162acb/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/4af02150-3f20-4459-a593-184fab162acb/3-4" />
+    <episode-num system="xmltv_ns">2025.424.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129233000 +0100" stop="20261130000000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Fulham v Bournemouth Hlts</title>
+    <desc lang="en">Fulham play host to Bournemouth at Craven Cottage in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4af02150-3f20-4459-a593-184fab162acb/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/4af02150-3f20-4459-a593-184fab162acb/3-4" />
+    <episode-num system="xmltv_ns">2025.424.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129233000 +0100" stop="20261130000000 +0100" channel="ee_uk.408">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">All the latest news from Europe's premier club competition, plus highlights of recent games and interviews with top players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d4f24b6b-e40f-48a7-b941-12c7e7a9de15/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/d4f24b6b-e40f-48a7-b941-12c7e7a9de15/3-4" />
+    <episode-num system="xmltv_ns">25.12.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261129233000 +0100" stop="20261130000000 +0100" channel="ee_uk.410">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/eadcc154-b91b-4d18-9a55-7712120c9e98/3-4" />
+    <episode-num system="xmltv_ns">25.46.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130000000 +0100" stop="20261130003000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: C. Palace v Hull City Hlts</title>
+    <desc lang="en">Crystal Palace play host to Hull City at Selhurst Park in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7258ac37-6368-4379-93ba-c344c3c6726c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7258ac37-6368-4379-93ba-c344c3c6726c/3-4" />
+    <episode-num system="xmltv_ns">2025.425.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130000000 +0100" stop="20261130003000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: C. Palace v Hull City Hlts</title>
+    <desc lang="en">Crystal Palace play host to Hull City at Selhurst Park in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7258ac37-6368-4379-93ba-c344c3c6726c/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7258ac37-6368-4379-93ba-c344c3c6726c/3-4" />
+    <episode-num system="xmltv_ns">2025.425.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130000000 +0100" stop="20261130010000 +0100" channel="ee_uk.408">
+    <title lang="en">UEL &amp; UECL Highlights Show</title>
+    <desc lang="en">Highlights of all the best action from the Europa League and the Conference League, including Celta v Bournemouth, Sunderland v Jagiellonia and Crystal Palace v Real Sociedad.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/43dce3cf-7f57-40a4-9577-b378237f6bb6/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/43dce3cf-7f57-40a4-9577-b378237f6bb6/3-4" />
+    <episode-num system="xmltv_ns">25.5.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130000000 +0100" stop="20261130003000 +0100" channel="ee_uk.410">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the women's slalom as the Alpine Skiing World Cup makes its fourth stop of the season in Killington, USA.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a827e5d9-7aba-47e4-882a-ec297b44564d/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/a827e5d9-7aba-47e4-882a-ec297b44564d/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130003000 +0100" stop="20261130010000 +0100" channel="ee_uk.420">
+    <title lang="en">PL: Sunderland v Spurs Highlights</title>
+    <desc lang="en">Sunderland play host to Tottenham Hotspur at the Stadium of Light in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/341c8db6-7681-42f7-8e9c-239f49b469fa/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/341c8db6-7681-42f7-8e9c-239f49b469fa/3-4" />
+    <episode-num system="xmltv_ns">2025.426.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130003000 +0100" stop="20261130010000 +0100" channel="virgin_uk.2258">
+    <title lang="en">PL: Sunderland v Spurs Highlights</title>
+    <desc lang="en">Sunderland play host to Tottenham Hotspur at the Stadium of Light in the Premier League. (29.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/341c8db6-7681-42f7-8e9c-239f49b469fa/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/341c8db6-7681-42f7-8e9c-239f49b469fa/3-4" />
+    <episode-num system="xmltv_ns">2025.426.</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130003000 +0100" stop="20261130010000 +0100" channel="ee_uk.410">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Run one of the giant slalom at Copper Mountain in Colorado, part of the men's FIS Alpine Skiing World Cup.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/98b68e65-fb92-451b-a2a8-3c50a40c33cc/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/98b68e65-fb92-451b-a2a8-3c50a40c33cc/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20261130003000 +0100" stop="20261130013000 +0100" channel="ee_uk.411">
+    <title lang="en">FEI Jumping World Cup - NAL</title>
+    <desc lang="en">Action from the final North American League qualifier of 2026, as premier riders compete for vital points at Santa Anita Park in Arcadia, California.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/641644a4-8abc-4317-9127-e1d0f4cb48b2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/641644a4-8abc-4317-9127-e1d0f4cb48b2/3-4" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext" />
   </programme>
 </tv>
