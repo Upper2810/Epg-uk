@@ -117,6 +117,7 @@ GENERIC_TITLES = {
     "live champions league",
     "champions league live",
     "uefa champions league live",
+    "live uefa champions league",
     "live fa cup",
     "fa cup live",
     "live carabao cup",
@@ -134,6 +135,7 @@ GENERIC_TITLES = {
     "live: efl championship",
     "live super sunday",
     "super sunday",
+
 }
 
 
