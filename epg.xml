@@ -48,181 +48,6 @@
     <url>https://virgintvgo.virginmedia.com/en/epg/initial</url>
     <display-name>SKY ULTRA 2</display-name>
   </channel>
-  <programme channel="ee_uk.450" start="20261126225000 +0100" stop="20261127070000 +0100">
-    <title lang="en">Live: Cricket International Tour</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.411" start="20261126230000 +0100" stop="20261127070000 +0100">
-    <title lang="en">Live Test Cricket</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cc34ac93-68b4-51be-bd94-2fa33be0f574.jpg" />
-  </programme>
-  <programme channel="ee_uk.451" start="20261126230000 +0100" stop="20261127060000 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.452" start="20261126230000 +0100" stop="20261127060000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.420" start="20261127000000 +0100" stop="20261127020000 +0100">
-    <title lang="en">Premier League Years</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e0df8ae1-39cb-5761-b000-223f2d8a8c53.jpg" />
-  </programme>
-  <programme channel="ee_uk.433" start="20261127000000 +0100" stop="20261127070000 +0100">
-    <title lang="en">This Is TNT Sports Ultimate</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261127001500 +0100" stop="20261127070000 +0100">
-    <title lang="en">Live Test Cricket</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cc34ac93-68b4-51be-bd94-2fa33be0f574.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261127003000 +0100" stop="20261127070000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261127013000 +0100" stop="20261127030000 +0100">
-    <title lang="en">Ultimate Pool</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/bd294c4a-c95b-5dd5-8330-90bc60b14b36.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127013000 +0100" stop="20261127020000 +0100">
-    <title lang="en">UEFA Conference League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e61bd3c8-27f1-5c3c-8826-e4c388a0bcad.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261127013000 +0100" stop="20261127020000 +0100">
-    <title lang="en">Sky Sports News</title>
-    <category lang="en">News</category>
-    <icon src="https://tv.assets.pressassociation.io/73302b6e-6012-5a9c-be81-8898cf77c512.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2265" start="20261127013000 +0100" stop="20261127073000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261127020000 +0100" stop="20261127023000 +0100">
-    <title lang="en">UEFA Conference League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/589dfd5d-c50f-5329-ab94-2c930bce7542.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261127020000 +0100" stop="20261127022000 +0100">
-    <title lang="en">NBC's FNIA</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b8895c3c-568d-5362-b5d0-6dd1fdbcf762.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127020000 +0100" stop="20261127040000 +0100">
-    <title lang="en">PL Retro</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5d7bc674-0361-54b7-8390-430d3bdc8fa6.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261127022000 +0100" stop="20261127054500 +0100">
-    <title lang="en">Live NFL</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/05d210f4-3979-5114-9a57-119d93a59658.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127023000 +0100" stop="20261127030000 +0100">
-    <title lang="en">UEFA Europa League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a603ede0-eb81-5c76-a0ae-1ef722792db9.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127030000 +0100" stop="20261127040000 +0100">
-    <title lang="en">Jaecoo PWR</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/214d03a8-358b-5a16-82aa-5b46731f191a.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127030000 +0100" stop="20261127033000 +0100">
-    <title lang="en">UEFA Europa League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c38434c9-fc89-51ad-b536-2869d6bc4d68.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127033000 +0100" stop="20261127040000 +0100">
-    <title lang="en">UEFA Europa League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3559042a-cb44-5131-8082-aa94b035622f.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127040000 +0100" stop="20261127050000 +0100">
-    <title lang="en">Fishing: On the Bank</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0bbf482c-4200-59bf-bd23-592845356d3e.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127040000 +0100" stop="20261127043000 +0100">
-    <title lang="en">UEFA Europa League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/2b984d12-3c26-522c-97eb-57db0ac31506.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127040000 +0100" stop="20261127041500 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/079bcd70-d3ac-5c16-9dca-3facbeceb263.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127041500 +0100" stop="20261127043000 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/060410ca-0fcd-56cc-a9d3-01d3e3228d85.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127043000 +0100" stop="20261127050000 +0100">
-    <title lang="en">UEFA Europa League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6a1be146-6fd6-566c-8660-e458882c70ab.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127043000 +0100" stop="20261127044500 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fd41356d-1ede-5c10-a769-f980458a96df.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127044500 +0100" stop="20261127050000 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/addf921d-0410-5af1-8da4-26c91cf4222f.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127050000 +0100" stop="20261127053000 +0100">
-    <title lang="en">TNT Sports Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127050000 +0100" stop="20261127053000 +0100">
-    <title lang="en">The Football Archives: UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/89d43302-929c-5abb-8b5f-18dcfe4e8067.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127050000 +0100" stop="20261127060000 +0100">
-    <title lang="en">Premier League Best Goals</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/45893b88-a7f2-5016-b3ae-302213553062.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127053000 +0100" stop="20261127060000 +0100">
-    <title lang="en">Serie A - Full Impact</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/edfcd8a5-8f61-594a-b34c-06e28f5d1c92.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127053000 +0100" stop="20261127060000 +0100">
-    <title lang="en">The Football Archives: UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6f95a772-9edf-5e4f-9bf7-0c84c202fa9e.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261127054500 +0100" stop="20261127070000 +0100">
-    <title lang="en">Live DP World Tour Golf</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e670c5ab-f14d-5a95-993b-16aeabbc82c0.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127060000 +0100" stop="20261127064500 +0100">
-    <title lang="en">WRC: More Than Machine</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/97cb177f-fa30-5ac7-9f15-52d8d18a7719.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261127060000 +0100" stop="20261127063000 +0100">
-    <title lang="en">The Football Archives: UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f53159ba-e6c3-59c2-9997-ad3a94aecc5b.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127060000 +0100" stop="20261127063000 +0100">
-    <title lang="en">Premier League Legends</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/119417c2-c7a0-5294-92ca-c6226e0aa93d.jpg" />
-  </programme>
   <programme channel="ee_uk.451" start="20261127060000 +0100" stop="20261127100000 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
@@ -231,25 +56,15 @@
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.410" start="20261127063000 +0100" stop="20261127070000 +0100">
-    <title lang="en">The Football Archives: UEFA Champions League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fce5c503-f4ac-5503-8185-221bfd5a14c3.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127063000 +0100" stop="20261127070000 +0100">
-    <title lang="en">PL 100: Paul Scholes</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/59b58c83-3d0f-57f4-85cc-110e2809913d.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127064500 +0100" stop="20261127074500 +0100">
-    <title lang="en">Live: V8 Supercars Championship</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/54bbcf61-3fa5-5fe5-8de4-3fa27d265b64.jpg" />
-  </programme>
   <programme channel="ee_uk.408" start="20261127070000 +0100" stop="20261127080000 +0100">
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e2dcd050-7d7e-5817-9252-b1e1248ebb73.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261127070000 +0100" stop="20261127080000 +0100">
+    <title lang="en">Live: V8 Supercars Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/54bbcf61-3fa5-5fe5-8de4-3fa27d265b64.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261127070000 +0100" stop="20261127080000 +0100">
     <title lang="en">Rolex SailGP Championship</title>
@@ -266,11 +81,6 @@
     <category lang="en">News</category>
     <icon src="https://tv.assets.pressassociation.io/73302b6e-6012-5a9c-be81-8898cf77c512.jpg" />
   </programme>
-  <programme channel="ee_uk.420" start="20261127070000 +0100" stop="20261127071500 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/36a55743-6056-5039-a316-dcc6f7724ce2.jpg" />
-  </programme>
   <programme channel="ee_uk.433" start="20261127070000 +0100" stop="20261127190000 +0100">
     <title lang="en">This Is TNT Sports Ultimate</title>
     <category lang="en">Sports</category>
@@ -281,27 +91,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme channel="virgin_uk.2258" start="20261127070000 +0100" stop="20261127123000 +0100">
-    <title lang="en">PL Greatest: QPR/Liverpool 2012</title>
+    <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.420" start="20261127071500 +0100" stop="20261127073000 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/895d9a0a-8be7-5df2-866a-b5aa6dcc4771.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261127073000 +0100" stop="20261127074500 +0100">
-    <title lang="en">PL Greatest Games</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f277093c-98c8-5581-acd9-c2878c70a5fd.jpg" />
   </programme>
   <programme channel="virgin_uk.2265" start="20261127073000 +0100" stop="20261127133000 +0100">
     <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261127074500 +0100" stop="20261127084500 +0100">
-    <title lang="en">MotoGP Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4cb3c4fe-601d-5b9e-ab22-59a9a8746407.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261127074500 +0100" stop="20261127080000 +0100">
     <title lang="en">PL Greatest Games</title>
@@ -313,6 +108,11 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/13d1b22b-d919-535f-bd44-3bb6356f590e.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261127080000 +0100" stop="20261127090000 +0100">
+    <title lang="en">MotoGP Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4cb3c4fe-601d-5b9e-ab22-59a9a8746407.jpg" />
+  </programme>
   <programme channel="ee_uk.410" start="20261127080000 +0100" stop="20261127093000 +0100">
     <title lang="en">Ultimate Pool</title>
     <category lang="en">Sports</category>
@@ -323,7 +123,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/adf90d10-6227-583a-907e-c8d105dbfe08.jpg" />
   </programme>
-  <programme channel="ee_uk.419" start="20261127080000 +0100" stop="20261127083000 +0100">
+  <programme channel="ee_uk.419" start="20261127080000 +0100" stop="20261127090000 +0100">
     <title lang="en">Sky Sports Breakfast</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/19a5e2f0-045a-5764-91b7-2d32637c732b.jpg" />
@@ -332,16 +132,6 @@
     <title lang="en">Premier League Best Goals</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/79e55e80-6cb3-5290-908a-7139b3459a72.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261127083000 +0100" stop="20261127140000 +0100">
-    <title lang="en">Live Test Cricket</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f813d919-c39f-512d-ac80-6cc62ce0d674.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261127084500 +0100" stop="20261127090000 +0100">
-    <title lang="en">MotoGP Rewind</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/375773f4-5996-5e22-8c87-88827d29aeb5.jpg" />
   </programme>
   <programme channel="ee_uk.408" start="20261127090000 +0100" stop="20261127124500 +0100">
     <title lang="en">Live International T20 Cricket</title>
@@ -357,6 +147,11 @@
     <title lang="en">Premier League - The Big Interview</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4d411dee-4543-57a0-ae5a-343fba3c629a.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261127090000 +0100" stop="20261127100000 +0100">
+    <title lang="en">Sky Sports Breakfast</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/19a5e2f0-045a-5764-91b7-2d32637c732b.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261127090000 +0100" stop="20261127093000 +0100">
     <title lang="en">Premier League Legends</title>
@@ -377,6 +172,11 @@
     <title lang="en">PL 100: Thierry Henry</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/8fce6e14-15fb-51c7-bbb1-ea6b8bf15af1.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261127100000 +0100" stop="20261127110000 +0100">
+    <title lang="en">Sky Sports Breakfast</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/19a5e2f0-045a-5764-91b7-2d32637c732b.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261127100000 +0100" stop="20261127103000 +0100">
     <title lang="en">The Big Interview</title>
@@ -400,12 +200,17 @@
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
+  <programme channel="ee_uk.419" start="20261127110000 +0100" stop="20261127120000 +0100">
+    <title lang="en">Sky Sports FC</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
+  </programme>
   <programme channel="ee_uk.420" start="20261127110000 +0100" stop="20261127120000 +0100">
     <title lang="en">Sky Sports FC</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261127110000 +0100" stop="20261127171500 +0100">
+  <programme channel="ee_uk.452" start="20261127110000 +0100" stop="20261127230000 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
@@ -437,12 +242,17 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
   </programme>
+  <programme channel="ee_uk.419" start="20261127120000 +0100" stop="20261127130000 +0100">
+    <title lang="en">Sky Sports FC</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
+  </programme>
   <programme channel="ee_uk.420" start="20261127120000 +0100" stop="20261127130000 +0100">
     <title lang="en">Sky Sports FC</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261127120500 +0100" stop="20261127180500 +0100">
+  <programme channel="ee_uk.451" start="20261127120500 +0100" stop="20261128000500 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
@@ -494,6 +304,11 @@
     <title lang="en">Live: IBSF World Cup</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/b0885c02-7ecc-5c50-ae88-ad00726f40b4.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261127130000 +0100" stop="20261127140000 +0100">
+    <title lang="en">Total Football</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a0e94059-3e5b-5c8a-b92b-ec28b2841ab9.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261127130000 +0100" stop="20261127140000 +0100">
     <title lang="en">Total Football</title>
@@ -629,10 +444,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/93c07d61-113e-55a2-bd99-9f2d1345a415.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261127171500 +0100" stop="20261127181500 +0100">
-    <title lang="en">Live: Ski Jumping World Cup: Ruka - Men's HS 142</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.420" start="20261127173000 +0100" stop="20261127180000 +0100">
     <title lang="en">Premier League Preview</title>
     <category lang="en">Sports</category>
@@ -657,10 +468,6 @@
     <title lang="en">Live: Cyclo-Cross World Cup</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.451" start="20261127180500 +0100" stop="20261127193500 +0100">
-    <title lang="en">Live: Cyclo-Cross World Cup</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261127181500 +0100" stop="20261127191500 +0100">
     <title lang="en">World Superbikes</title>
     <category lang="en">Sports</category>
@@ -671,10 +478,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261127181500 +0100" stop="20261127184500 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.411" start="20261127183000 +0100" stop="20261127201500 +0100">
     <title lang="en">Live: Park &amp; Pipe World Cup</title>
     <category lang="en">Sports</category>
@@ -682,10 +485,6 @@
   </programme>
   <programme channel="virgin_uk.2258" start="20261127183000 +0100" stop="20261127190000 +0100">
     <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.452" start="20261127184500 +0100" stop="20261127202000 +0100">
-    <title lang="en">Live: Freestyle Skiing World Cup: Innsbruck - Big Air</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.420" start="20261127190000 +0100" stop="20261127200000 +0100">
@@ -740,10 +539,6 @@
     <title lang="en">Live: Cyclo-Cross World Cup</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.451" start="20261127193500 +0100" stop="20261127210500 +0100">
-    <title lang="en">Live: Cyclo-Cross World Cup</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261127200000 +0100" stop="20261127203000 +0100">
     <title lang="en">The Fantasy Show</title>
     <category lang="en">Sports</category>
@@ -767,10 +562,6 @@
     <title lang="en">Live FNF: Nott'm Forest v Chelsea</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/dabbf3e0-2927-5557-8bc8-a5ea806e9466.jpg" />
-  </programme>
-  <programme channel="ee_uk.452" start="20261127202000 +0100" stop="20261128060000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261127203000 +0100" stop="20261127210000 +0100">
     <title lang="en">Inside Serie A</title>
@@ -808,10 +599,6 @@
   </programme>
   <programme channel="ee_uk.450" start="20261127210500 +0100" stop="20261128055000 +0100">
     <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261127210500 +0100" stop="20261128060000 +0100">
-    <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261127213000 +0100" stop="20261127214500 +0100">
@@ -854,6 +641,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/f1cb893e-3a8b-536f-b9eb-af0c7ae27f0f.jpg" />
   </programme>
+  <programme channel="ee_uk.452" start="20261127230000 +0100" stop="20261128060000 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.411" start="20261127231500 +0100" stop="20261127233000 +0100">
     <title lang="en">Playing for Our Future - Rugby</title>
     <category lang="en">Sports</category>
@@ -891,6 +682,10 @@
     <title lang="en">Sky Sports News</title>
     <category lang="en">News</category>
     <icon src="https://tv.assets.pressassociation.io/73302b6e-6012-5a9c-be81-8898cf77c512.jpg" />
+  </programme>
+  <programme channel="ee_uk.451" start="20261128000500 +0100" stop="20261128060000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.409" start="20261128003000 +0100" stop="20261128010000 +0100">
     <title lang="en">MotoGP</title>
@@ -1055,10 +850,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7ad185f5-4cc9-5d4d-bc69-40efa189b140.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261128055000 +0100" stop="20261128073000 +0100">
-    <title lang="en">Live: Snowboarding World Cup: Zhangjiakou - Parallel Giant Slalom</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261128060000 +0100" stop="20261128073000 +0100">
     <title lang="en">Live: Snowboard World Cup</title>
     <category lang="en">Sports</category>
@@ -1074,11 +865,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4eb49318-f829-5ada-8022-abde4ac2c268.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261128060000 +0100" stop="20261128090500 +0100">
+  <programme channel="ee_uk.450" start="20261128060000 +0100" stop="20261128093000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.451" start="20261128060000 +0100" stop="20261128120500 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.452" start="20261128060000 +0100" stop="20261128082000 +0100">
+  <programme channel="ee_uk.452" start="20261128060000 +0100" stop="20261128084000 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
@@ -1145,10 +940,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7fec4a5d-0ccf-5e95-9e87-52224036847d.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261128073000 +0100" stop="20261128093000 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.420" start="20261128074500 +0100" stop="20261128080000 +0100">
     <title lang="en">PL Greatest Games</title>
     <category lang="en">Sports</category>
@@ -1178,10 +969,6 @@
     <title lang="en">Premier League Best Goals</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e2e85dca-eb2d-5e0b-8428-0cb7964521d6.jpg" />
-  </programme>
-  <programme channel="ee_uk.452" start="20261128082000 +0100" stop="20261128084000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261128083000 +0100" stop="20261128090000 +0100">
     <title lang="en">Premier League Preview</title>
@@ -1227,14 +1014,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e629138d-ae8c-5d06-bead-389dd08c2758.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261128090500 +0100" stop="20261128140000 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261128093000 +0100" stop="20261128100000 +0100">
-    <title lang="en">The Breakdown</title>
+    <title lang="en">ILT20 Highlights</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261128093000 +0100" stop="20261128100000 +0100">
     <title lang="en">The Big Interview</title>
@@ -1250,7 +1033,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/ea4ed37c-76a4-57eb-aa98-28107df2af4f.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261128094500 +0100" stop="20261128145500 +0100">
+  <programme channel="ee_uk.452" start="20261128094500 +0100" stop="20261128110500 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
@@ -1304,6 +1087,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7b4800e5-e30a-59d7-b70e-427b877fe377.jpg" />
   </programme>
+  <programme channel="ee_uk.452" start="20261128110500 +0100" stop="20261128130000 +0100">
+    <title lang="en">Live: Cross-Country Skiing: Ruka | Classic Sprint</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.410" start="20261128111500 +0100" stop="20261128114500 +0100">
     <title lang="en">The Monuments</title>
     <category lang="en">Sports</category>
@@ -1320,6 +1107,10 @@
   </programme>
   <programme channel="ee_uk.450" start="20261128114500 +0100" stop="20261128132000 +0100">
     <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.451" start="20261128120500 +0100" stop="20261128141500 +0100">
+    <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261128123000 +0100" stop="20261128130000 +0100">
@@ -1365,6 +1156,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/61ccf30f-a893-5e46-9a82-074a4ed0000d.jpg" />
   </programme>
+  <programme channel="ee_uk.452" start="20261128130000 +0100" stop="20261128145500 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.410" start="20261128131500 +0100" stop="20261128134500 +0100">
     <title lang="en">Premier League Stories</title>
     <category lang="en">Sports</category>
@@ -1384,14 +1179,14 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/2c6eb14c-6876-513e-b7af-52d0877a86ce.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261128140000 +0100" stop="20261128173000 +0100">
-    <title lang="en">Live: Snooker : UK Championship - Round 1</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.408" start="20261128141500 +0100" stop="20261128173000 +0100">
     <title lang="en">Live: Snooker UK Championship</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/d3c38be7-8743-5666-b13b-253732a1b3f0.jpg" />
+  </programme>
+  <programme channel="ee_uk.451" start="20261128141500 +0100" stop="20261128173000 +0100">
+    <title lang="en">Live: Snooker : UK Championship - Round 1</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.409" start="20261128144500 +0100" stop="20261128154500 +0100">
     <title lang="en">Live MotoGP</title>
@@ -1422,12 +1217,8 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261128150000 +0100" stop="20261128151500 +0100">
+  <programme channel="ee_uk.450" start="20261128150000 +0100" stop="20261128185000 +0100">
     <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.450" start="20261128151500 +0100" stop="20261128170000 +0100">
-    <title lang="en">Live: Alpine Skiing World Cup: Killington - Women's Giant Slalom</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261128153000 +0100" stop="20261128170000 +0100">
@@ -1483,10 +1274,6 @@
     <title lang="en">Soccer Saturday</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5b3aed19-4b2c-5135-a0e1-852933ec90ce.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261128170000 +0100" stop="20261128193000 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="virgin_uk.2258" start="20261128170000 +0100" stop="20261128180000 +0100">
     <title lang="en">This is Ultra HD</title>
@@ -1544,6 +1331,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4c85e08a-c7e1-518b-8395-e47e2ea9476e.jpg" />
   </programme>
+  <programme channel="ee_uk.450" start="20261128185000 +0100" stop="20261128203500 +0100">
+    <title lang="en">Live: Snowboarding World Cup: Innsbruck - Big Air</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.433" start="20261128190000 +0100" stop="20261129070000 +0100">
     <title lang="en">This Is TNT Sports Ultimate</title>
     <category lang="en">Sports</category>
@@ -1578,10 +1369,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/3122d24d-b04a-5408-87ac-4002b6b250be.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261128193000 +0100" stop="20261128214500 +0100">
-    <title lang="en">Live: Alpine Skiing World Cup: Copper Mountain - Men's Super-G</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.409" start="20261128200000 +0100" stop="20261128233000 +0100">
     <title lang="en">Live: Snooker UK Championship</title>
     <category lang="en">Sports</category>
@@ -1595,6 +1382,10 @@
     <title lang="en">UEFA Champions League Magazine</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/c37f9004-1699-53df-8f40-09858b4e19ab.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261128203500 +0100" stop="20261129060000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261128210000 +0100" stop="20261128213000 +0100">
     <title lang="en">Cyclocross</title>
@@ -1625,10 +1416,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/8f1e93b7-0277-59c7-9a6e-1d3912ebba6d.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261128214500 +0100" stop="20261129054500 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261128220000 +0100" stop="20261128223000 +0100">
     <title lang="en">MotoGP</title>
     <category lang="en">Sports</category>
@@ -1644,10 +1431,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
   </programme>
-  <programme channel="ee_uk.410" start="20261128223000 +0100" stop="20261128230000 +0100">
-    <title lang="en">Cyclocross</title>
+  <programme channel="ee_uk.410" start="20261128223000 +0100" stop="20261128233000 +0100">
+    <title lang="en">Guintoli: Beyond Endurance</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/01d2c9a4-953b-5b47-b6b5-a5e5b9cf80b8.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/b18199e1-4dcc-529e-9caa-9eac1977006f.jpg" />
   </programme>
   <programme channel="virgin_uk.2258" start="20261128223000 +0100" stop="20261129070000 +0100">
     <title lang="en">This is Ultra HD</title>
@@ -1662,11 +1449,6 @@
     <title lang="en">Sign Up - Into Football</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/195c4e8a-cd38-5837-bb8c-930484b5b579.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261128230000 +0100" stop="20261128233000 +0100">
-    <title lang="en">Cyclocross</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c27418fc-e8e2-54f0-a7d3-96aec91769c2.jpg" />
   </programme>
   <programme channel="ee_uk.419" start="20261128230000 +0100" stop="20261129013000 +0100">
     <title lang="en">Live NBA Basketball</title>
@@ -1693,7 +1475,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/99e85fd3-b7ef-520a-9b50-96b7e095b9f7.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261128233000 +0100" stop="20261129055000 +0100">
+  <programme channel="ee_uk.451" start="20261128233000 +0100" stop="20261129054500 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
@@ -1910,17 +1692,13 @@
     <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.410" start="20261129054500 +0100" stop="20261129074500 +0100">
+  <programme channel="ee_uk.410" start="20261129054500 +0100" stop="20261129070000 +0100">
     <title lang="en">Live: V8 Supercars Championship</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/45ed82af-61f0-5fcc-a40f-0f6f1502b368.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129054500 +0100" stop="20261129071500 +0100">
+  <programme channel="ee_uk.451" start="20261129054500 +0100" stop="20261129071500 +0100">
     <title lang="en">Live: BMX World Cup</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261129055000 +0100" stop="20261129073000 +0100">
-    <title lang="en">Live: Snowboarding World Cup: Zhangjiakou - Parallel Giant Slalom Team</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.409" start="20261129060000 +0100" stop="20261129073000 +0100">
@@ -1932,6 +1710,10 @@
     <title lang="en">Premier League Legends</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/bd1fec2c-e57d-5b7e-b4c0-e9a6d174ca38.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261129060000 +0100" stop="20261129083500 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.452" start="20261129060000 +0100" stop="20261129071500 +0100">
     <title lang="en">This is TNT Sports 7</title>
@@ -1946,6 +1728,11 @@
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e2dcd050-7d7e-5817-9252-b1e1248ebb73.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261129070000 +0100" stop="20261129080000 +0100">
+    <title lang="en">Live: V8 Supercars Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/45ed82af-61f0-5fcc-a40f-0f6f1502b368.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261129070000 +0100" stop="20261129071500 +0100">
     <title lang="en">TNT Sports Reload</title>
@@ -1976,8 +1763,8 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5c45eda4-975e-5eb6-b7ec-98935a1bb668.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129071500 +0100" stop="20261129080000 +0100">
-    <title lang="en">This is TNT Sports 5</title>
+  <programme channel="ee_uk.451" start="20261129071500 +0100" stop="20261129080000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.452" start="20261129071500 +0100" stop="20261129105000 +0100">
@@ -1994,24 +1781,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5dfdbbce-f048-5b6a-b330-e0de749e4c9d.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261129073000 +0100" stop="20261129114500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261129074500 +0100" stop="20261129080000 +0100">
-    <title lang="en">TNT Sports Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
-  </programme>
   <programme channel="ee_uk.411" start="20261129074500 +0100" stop="20261129081500 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5a4c7fde-1d41-5544-8ea9-c37ed2fbefe4.jpg" />
   </programme>
   <programme channel="ee_uk.408" start="20261129080000 +0100" stop="20261129083000 +0100">
-    <title lang="en">Premier League Stories</title>
+    <title lang="en">ILT20 Highlights</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a06263ce-ad90-58de-836f-b905b2bf09f3.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261129080000 +0100" stop="20261129083000 +0100">
     <title lang="en">Cyclocross</title>
@@ -2033,7 +1811,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e629138d-ae8c-5d06-bead-389dd08c2758.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129080000 +0100" stop="20261129093000 +0100">
+  <programme channel="ee_uk.451" start="20261129080000 +0100" stop="20261129093000 +0100">
     <title lang="en">Live: BMX World Cup</title>
     <category lang="en">Sports</category>
   </programme>
@@ -2043,9 +1821,9 @@
     <icon src="https://tv.assets.pressassociation.io/c7674509-8ed8-5fc6-936e-160da045630d.jpg" />
   </programme>
   <programme channel="ee_uk.408" start="20261129083000 +0100" stop="20261129090000 +0100">
-    <title lang="en">Premier League - The Big Interview</title>
+    <title lang="en">ILT20 Highlights</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4d411dee-4543-57a0-ae5a-343fba3c629a.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261129083000 +0100" stop="20261129090000 +0100">
     <title lang="en">Cyclocross</title>
@@ -2056,6 +1834,10 @@
     <title lang="en">SNF</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/10f6bbda-1bcf-56a6-97b0-45ae068de357.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261129083500 +0100" stop="20261129100000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.411" start="20261129084500 +0100" stop="20261129093000 +0100">
     <title lang="en">Live: Men's Nordic Combined Skiing World Cup</title>
@@ -2102,8 +1884,8 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5dfdbbce-f048-5b6a-b330-e0de749e4c9d.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129093000 +0100" stop="20261129100000 +0100">
-    <title lang="en">This is TNT Sports 5</title>
+  <programme channel="ee_uk.451" start="20261129093000 +0100" stop="20261129114500 +0100">
+    <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.411" start="20261129094500 +0100" stop="20261129110000 +0100">
@@ -2161,7 +1943,7 @@
     <title lang="en">Live: Cross-Country Skiing: Ruka | Women's 20km Freestyle Mass Start</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.452" start="20261129115500 +0100" stop="20261129125000 +0100">
+  <programme channel="ee_uk.452" start="20261129115500 +0100" stop="20261129124500 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
@@ -2213,12 +1995,12 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/1f6b7745-f3d2-5843-b425-e73f42f1a7cf.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129125000 +0100" stop="20261129142000 +0100">
-    <title lang="en">Live: Biathlon World Cup</title>
+  <programme channel="ee_uk.452" start="20261129124500 +0100" stop="20261129134500 +0100">
+    <title lang="en">Live: Ski Jumping World Cup: Ruka - Men's HS 142</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.452" start="20261129125000 +0100" stop="20261129142000 +0100">
-    <title lang="en">Live: Cyclo-Cross World Cup</title>
+  <programme channel="ee_uk.450" start="20261129125000 +0100" stop="20261129142000 +0100">
+    <title lang="en">Live: Biathlon World Cup</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261129130000 +0100" stop="20261129133000 +0100">
@@ -2231,7 +2013,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/cd73debf-fd7a-5bfd-b333-4245879acf5c.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261129130000 +0100" stop="20261129142000 +0100">
+  <programme channel="ee_uk.451" start="20261129130000 +0100" stop="20261130010000 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
@@ -2248,6 +2030,10 @@
     <title lang="en">Inside Serie A</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/fccc736c-4f64-552e-996f-01c54b767782.jpg" />
+  </programme>
+  <programme channel="ee_uk.452" start="20261129134500 +0100" stop="20261129142000 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261129140000 +0100" stop="20261129173000 +0100">
     <title lang="en">Live: Snooker UK Championship</title>
@@ -2269,15 +2055,11 @@
     <icon src="https://tv.assets.pressassociation.io/50576b84-0651-5328-9134-e74c44796498.jpg" />
   </programme>
   <programme channel="ee_uk.450" start="20261129142000 +0100" stop="20261129160500 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.452" start="20261129142000 +0100" stop="20261129160500 +0100">
     <title lang="en">Live: Ski Jumping World Cup: Ruka - Men's HS 142</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261129142000 +0100" stop="20261129155000 +0100">
-    <title lang="en">Live: Cyclo-Cross World Cup</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.452" start="20261129142000 +0100" stop="20261129155000 +0100">
-    <title lang="en">Live: Cyclo-Cross World Cup</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.411" start="20261129143000 +0100" stop="20261129150000 +0100">
@@ -2314,14 +2096,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/b14b3a39-65b6-5372-8ea1-91ead00e72c4.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261129155000 +0100" stop="20261129161500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.452" start="20261129155000 +0100" stop="20261130035000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.409" start="20261129160000 +0100" stop="20261129163000 +0100">
     <title lang="en">Men's Alpine Skiing World Cup</title>
     <category lang="en">Sports</category>
@@ -2332,18 +2106,18 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129160500 +0100" stop="20261129173000 +0100">
+  <programme channel="ee_uk.450" start="20261129160500 +0100" stop="20261129174500 +0100">
     <title lang="en">Live: Biathlon World Cup</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.452" start="20261129160500 +0100" stop="20261130040500 +0100">
+    <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261129161500 +0100" stop="20261129163000 +0100">
     <title lang="en">TNT Sports Cricket Reload</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/06cacf18-d032-5e51-805a-89dfdc346bb8.jpg" />
-  </programme>
-  <programme channel="ee_uk.451" start="20261129161500 +0100" stop="20261129180000 +0100">
-    <title lang="en">Live: Alpine Skiing World Cup: Killington - Women's Slalom</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261129163000 +0100" stop="20261129164500 +0100">
     <title lang="en">TNT Sports Cricket Reload</title>
@@ -2384,12 +2158,8 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/bd1d003a-f904-57cf-b24c-4d27d72a058b.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129173000 +0100" stop="20261129174500 +0100">
+  <programme channel="ee_uk.450" start="20261129174500 +0100" stop="20261130054500 +0100">
     <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.450" start="20261129174500 +0100" stop="20261129193000 +0100">
-    <title lang="en">Live: Alpine Skiing World Cup: Copper Mountain - Men's Giant Slalom</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261129180000 +0100" stop="20261129193000 +0100">
@@ -2401,10 +2171,6 @@
     <title lang="en">International T20 Cricket Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/327ab1a4-a036-5cc6-9c9e-fd74b030c843.jpg" />
-  </programme>
-  <programme channel="ee_uk.451" start="20261129180000 +0100" stop="20261129191500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261129183000 +0100" stop="20261129193000 +0100">
     <title lang="en">Live MotoGP</title>
@@ -2430,10 +2196,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261129191500 +0100" stop="20261129204500 +0100">
-    <title lang="en">Live: Alpine Skiing World Cup: Killington - Women's Slalom</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.408" start="20261129193000 +0100" stop="20261129203000 +0100">
     <title lang="en">Miracle of Istanbul</title>
     <category lang="en">Sports</category>
@@ -2443,10 +2205,6 @@
     <title lang="en">Premier League Stories</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a06263ce-ad90-58de-836f-b905b2bf09f3.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261129193000 +0100" stop="20261129204500 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.411" start="20261129194500 +0100" stop="20261129200000 +0100">
     <title lang="en">TNT Sports Cricket Reload</title>
@@ -2481,14 +2239,6 @@
     <title lang="en">Live: Men's Alpine Skiing World Cup</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/ce4f3646-55b6-5569-8263-c3de78b981b2.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261129204500 +0100" stop="20261129221500 +0100">
-    <title lang="en">Live: Alpine Skiing World Cup: Copper Mountain - Men's Giant Slalom</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.451" start="20261129204500 +0100" stop="20261130060000 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.411" start="20261129210000 +0100" stop="20261129220000 +0100">
     <title lang="en">Test Cricket Highlights</title>
@@ -2528,19 +2278,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/01cad35c-2902-5ab5-bfe1-740e46b16da0.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261129221500 +0100" stop="20261130060000 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261129224500 +0100" stop="20261129233000 +0100">
-    <title lang="en">Live: Snooker UK Championship</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/92d4c9c5-5f8e-594b-b080-340239093429.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261129224500 +0100" stop="20261130070000 +0100">
+  <programme channel="ee_uk.408" start="20261129224500 +0100" stop="20261130070000 +0100">
     <title lang="en">Live Test Cricket</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/48ba1045-b964-58c2-ab72-1e41a5c25832.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261129224500 +0100" stop="20261129233000 +0100">
+    <title lang="en">Sign Up - Into Football</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/195c4e8a-cd38-5837-bb8c-930484b5b579.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261129224500 +0100" stop="20261129230000 +0100">
     <title lang="en">PL Greatest Games</title>
@@ -2557,7 +2303,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/fe3c00aa-d284-5b23-9395-3dcfcfe57740.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261129233000 +0100" stop="20261130000000 +0100">
+  <programme channel="ee_uk.409" start="20261129233000 +0100" stop="20261130000000 +0100">
     <title lang="en">UEFA Champions League Magazine</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/c37f9004-1699-53df-8f40-09858b4e19ab.jpg" />
@@ -2572,7 +2318,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/839ab35c-bd85-528c-ae33-36340a338d6c.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261130000000 +0100" stop="20261130010000 +0100">
+  <programme channel="ee_uk.409" start="20261130000000 +0100" stop="20261130010000 +0100">
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e2dcd050-7d7e-5817-9252-b1e1248ebb73.jpg" />
@@ -2602,7 +2348,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/09a9707c-79f3-5bd0-97be-432f132e9077.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261130010000 +0100" stop="20261130023000 +0100">
+  <programme channel="ee_uk.409" start="20261130010000 +0100" stop="20261130023000 +0100">
     <title lang="en">Premier League</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/695d89e2-94d5-5d7e-b914-6d397f48ce9e.jpg" />
@@ -2616,6 +2362,10 @@
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/95955536-098b-5b62-9ac1-3b4e18cb5745.jpg" />
+  </programme>
+  <programme channel="ee_uk.451" start="20261130010000 +0100" stop="20261130060000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261130013000 +0100" stop="20261130020000 +0100">
     <title lang="en">Men's Alpine Skiing World Cup</title>
@@ -2654,9 +2404,9 @@
   <programme channel="ee_uk.419" start="20261130021000 +0100" stop="20261130054500 +0100">
     <title lang="en">Live NFL</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f29d7add-3d93-5cad-9de3-b37e0482965c.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/ccd5c1f5-cd3a-554a-b4ad-d17dee5f599f.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261130023000 +0100" stop="20261130033000 +0100">
+  <programme channel="ee_uk.409" start="20261130023000 +0100" stop="20261130033000 +0100">
     <title lang="en">Serie A</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/cbce9cb6-80c7-5022-9411-d490247edf42.jpg" />
@@ -2686,7 +2436,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/09a9707c-79f3-5bd0-97be-432f132e9077.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261130033000 +0100" stop="20261130043000 +0100">
+  <programme channel="ee_uk.409" start="20261130033000 +0100" stop="20261130043000 +0100">
     <title lang="en">UEFA Champions League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/46d3ee27-3603-5f30-bb92-568306d43eb6.jpg" />
@@ -2700,10 +2450,6 @@
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/95955536-098b-5b62-9ac1-3b4e18cb5745.jpg" />
-  </programme>
-  <programme channel="ee_uk.452" start="20261130035000 +0100" stop="20261130060000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261130040000 +0100" stop="20261130043000 +0100">
     <title lang="en">SailGP - Racing on the Edge</title>
@@ -2720,12 +2466,16 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/f6cc74c3-53c1-58f4-989f-40e6aa2cad99.jpg" />
   </programme>
+  <programme channel="ee_uk.452" start="20261130040500 +0100" stop="20261130060000 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.420" start="20261130041500 +0100" stop="20261130043000 +0100">
     <title lang="en">PL Greatest Games</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4296d666-d192-51bd-af0f-2337fd31b0c1.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261130043000 +0100" stop="20261130053000 +0100">
+  <programme channel="ee_uk.409" start="20261130043000 +0100" stop="20261130053000 +0100">
     <title lang="en">UEFA Champions League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/bd1d003a-f904-57cf-b24c-4d27d72a058b.jpg" />
@@ -2760,7 +2510,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4558b50d-1b06-5053-a3e0-c9008c3ba255.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261130053000 +0100" stop="20261130063000 +0100">
+  <programme channel="ee_uk.409" start="20261130053000 +0100" stop="20261130063000 +0100">
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e2dcd050-7d7e-5817-9252-b1e1248ebb73.jpg" />
@@ -2780,6 +2530,10 @@
     <category lang="en">News</category>
     <icon src="https://tv.assets.pressassociation.io/73302b6e-6012-5a9c-be81-8898cf77c512.jpg" />
   </programme>
+  <programme channel="ee_uk.450" start="20261130054500 +0100" stop="20261130060000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.411" start="20261130060000 +0100" stop="20261130063000 +0100">
     <title lang="en">Cyclocross</title>
     <category lang="en">Sports</category>
@@ -2795,19 +2549,19 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/94584741-5e6b-57fc-a5b2-cc109b20b6e1.jpg" />
   </programme>
-  <programme channel="ee_uk.450" start="20261130060000 +0100" stop="20261130101500 +0100">
+  <programme channel="ee_uk.450" start="20261130060000 +0100" stop="20261130140000 +0100">
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.451" start="20261130060000 +0100" stop="20261130084500 +0100">
+  <programme channel="ee_uk.451" start="20261130060000 +0100" stop="20261130130000 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.452" start="20261130060000 +0100" stop="20261130155000 +0100">
+  <programme channel="ee_uk.452" start="20261130060000 +0100" stop="20261130160500 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.408" start="20261130063000 +0100" stop="20261130070000 +0100">
+  <programme channel="ee_uk.409" start="20261130063000 +0100" stop="20261130070000 +0100">
     <title lang="en">TNT Sports Reload</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
@@ -2925,10 +2679,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/09a9707c-79f3-5bd0-97be-432f132e9077.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261130084500 +0100" stop="20261130204500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.408" start="20261130090000 +0100" stop="20261130103000 +0100">
     <title lang="en">Premier League</title>
     <category lang="en">Sports</category>
@@ -3003,10 +2753,6 @@
     <title lang="en">PL: Fulham v Bournemouth Hlts</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.450" start="20261130101500 +0100" stop="20261130140000 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.408" start="20261130103000 +0100" stop="20261130113000 +0100">
     <title lang="en">Longines Global Champions Tour</title>
     <category lang="en">Sports</category>
@@ -3072,10 +2818,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/cbce9cb6-80c7-5022-9411-d490247edf42.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261130113000 +0100" stop="20261130120000 +0100">
-    <title lang="en">Cyclocross</title>
+  <programme channel="ee_uk.409" start="20261130113000 +0100" stop="20261130120100 +0100">
+    <title lang="en">SailGP - Racing on the Edge</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c27418fc-e8e2-54f0-a7d3-96aec91769c2.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/0bb077ac-ec69-5765-b89c-7e51599d0a8c.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261130113000 +0100" stop="20261130120000 +0100">
     <title lang="en">The Football Archives: UEFA Champions League</title>
@@ -3091,11 +2837,6 @@
     <title lang="en">TNT Sports Cricket Reload</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/06cacf18-d032-5e51-805a-89dfdc346bb8.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261130120000 +0100" stop="20261130123000 +0100">
-    <title lang="en">Cyclocross</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/59ddb1cd-3a32-5b86-a236-49f381fe7ca8.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261130120000 +0100" stop="20261130123000 +0100">
     <title lang="en">The Football Archives: UEFA Champions League</title>
@@ -3117,15 +2858,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/c9361e41-8187-5c20-b414-849337cfb138.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261130120100 +0100" stop="20261130130000 +0100">
+    <title lang="en">International T20 Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/327ab1a4-a036-5cc6-9c9e-fd74b030c843.jpg" />
+  </programme>
   <programme channel="ee_uk.408" start="20261130123000 +0100" stop="20261130130000 +0100">
     <title lang="en">UEFA Champions League - Stories of the Finals</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9b8d79cc-a0cf-5389-868d-95249f348cb0.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261130123000 +0100" stop="20261130130000 +0100">
-    <title lang="en">SailGP - Racing on the Edge</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0bb077ac-ec69-5765-b89c-7e51599d0a8c.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261130123000 +0100" stop="20261130130000 +0100">
     <title lang="en">The Football Archives: UEFA Champions League</title>
@@ -3138,9 +2879,9 @@
     <icon src="https://tv.assets.pressassociation.io/a6e3826b-7d45-54fb-8319-deeecebd532f.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261130130000 +0100" stop="20261130140000 +0100">
-    <title lang="en">International T20 Cricket Highlights</title>
+    <title lang="en">Test Cricket Highlights</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/327ab1a4-a036-5cc6-9c9e-fd74b030c843.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/ff0bf8b6-d197-5e5b-a17e-358f51c3174b.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261130130000 +0100" stop="20261130140000 +0100">
     <title lang="en">Longines FEI Jumping World Cup</title>
@@ -3177,10 +2918,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/c920ad1e-6bd3-58f4-a2f4-4beb1b5a8a6e.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261130140000 +0100" stop="20261130150000 +0100">
-    <title lang="en">Test Cricket Highlights</title>
+  <programme channel="ee_uk.409" start="20261130140000 +0100" stop="20261130143000 +0100">
+    <title lang="en">ILT20 Highlights</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ff0bf8b6-d197-5e5b-a17e-358f51c3174b.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261130140000 +0100" stop="20261130173000 +0100">
     <title lang="en">Live: Snooker UK Championship</title>
@@ -3209,6 +2950,11 @@
   <programme channel="virgin_uk.2265" start="20261130140000 +0100" stop="20261130200000 +0100">
     <title lang="en">EFL 16/17: Huddersfield v Reading</title>
     <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261130143000 +0100" stop="20261130150000 +0100">
+    <title lang="en">ILT20 Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261130143000 +0100" stop="20261130150000 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
@@ -3250,10 +2996,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/839ab35c-bd85-528c-ae33-36340a338d6c.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261130155000 +0100" stop="20261201035000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.411" start="20261130160000 +0100" stop="20261130163000 +0100">
     <title lang="en">Men's Alpine Skiing World Cup</title>
     <category lang="en">Sports</category>
@@ -3271,6 +3013,10 @@
   </programme>
   <programme channel="virgin_uk.2258" start="20261130160000 +0100" stop="20261130193000 +0100">
     <title lang="en">PL: C. Palace v Hull City Hlts</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.452" start="20261130160500 +0100" stop="20261201040500 +0100">
+    <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.411" start="20261130163000 +0100" stop="20261130170000 +0100">
@@ -3311,7 +3057,7 @@
   <programme channel="ee_uk.419" start="20261130173000 +0100" stop="20261130180000 +0100">
     <title lang="en">Live World Darts Championship Draw</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/047aeb95-d289-5eca-af6d-b410f9498f43.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/01a1573f-d8ab-563f-b5ca-52b689e0ee7a.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261130173000 +0100" stop="20261130180000 +0100">
     <title lang="en">Premier League Highlights</title>
@@ -3631,10 +3377,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5c45eda4-975e-5eb6-b7ec-98935a1bb668.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261201035000 +0100" stop="20261201060000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261201040000 +0100" stop="20261201043000 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
     <category lang="en">Sports</category>
@@ -3650,6 +3392,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/764a5c8d-0496-5264-95a2-f43f257ac4a1.jpg" />
   </programme>
+  <programme channel="ee_uk.452" start="20261201040500 +0100" stop="20261201060000 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.420" start="20261201041500 +0100" stop="20261201043000 +0100">
     <title lang="en">PL Greatest Games</title>
     <category lang="en">Sports</category>
@@ -3658,7 +3404,7 @@
   <programme channel="ee_uk.409" start="20261201043000 +0100" stop="20261201053000 +0100">
     <title lang="en">FIA World Endurance Championship Highlights</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a1b61f09-d0be-5b28-abde-db8628f6a44f.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/eed2e74e-3ba3-59b2-9958-39d67fe33b8e.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261201043000 +0100" stop="20261201050000 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
@@ -3734,11 +3480,11 @@
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.451" start="20261201060000 +0100" stop="20261201084500 +0100">
+  <programme channel="ee_uk.451" start="20261201060000 +0100" stop="20261201130000 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.452" start="20261201060000 +0100" stop="20261201155000 +0100">
+  <programme channel="ee_uk.452" start="20261201060000 +0100" stop="20261201160500 +0100">
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
@@ -3787,7 +3533,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
   </programme>
-  <programme channel="virgin_uk.2258" start="20261201070000 +0100" stop="20261201073000 +0100">
+  <programme channel="virgin_uk.2258" start="20261201070000 +0100" stop="20261201190000 +0100">
     <title lang="en">PL: Leeds v Coventry Highlights</title>
     <category lang="en">Sports</category>
   </programme>
@@ -3805,10 +3551,6 @@
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5dfdbbce-f048-5b6a-b330-e0de749e4c9d.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261201073000 +0100" stop="20261201133000 +0100">
-    <title lang="en">PL: Man United v Brentford Hlts</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261201080000 +0100" stop="20261201090000 +0100">
     <title lang="en">Premier League Review</title>
@@ -3859,19 +3601,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/10f6bbda-1bcf-56a6-97b0-45ae068de357.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261201084500 +0100" stop="20261201204500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.408" start="20261201090000 +0100" stop="20261201100000 +0100">
     <title lang="en">Serie A</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/cbce9cb6-80c7-5022-9411-d490247edf42.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261201090000 +0100" stop="20261201100000 +0100">
-    <title lang="en">MotoGP</title>
+  <programme channel="ee_uk.409" start="20261201090000 +0100" stop="20261201093000 +0100">
+    <title lang="en">SailGP - Racing on the Edge</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/662ce465-511a-555a-8d65-39c49c7f7479.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/0bb077ac-ec69-5765-b89c-7e51599d0a8c.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261201090000 +0100" stop="20261201093000 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
@@ -3898,6 +3636,11 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/fec45bf5-27d9-5788-9b20-08826cb2c255.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261201093000 +0100" stop="20261201094500 +0100">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/eca224d6-29f3-53c9-b94d-69e6d8eb8397.jpg" />
+  </programme>
   <programme channel="ee_uk.410" start="20261201093000 +0100" stop="20261201100000 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
     <category lang="en">Sports</category>
@@ -3908,15 +3651,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7659dac6-7961-58ae-9146-adfbd0192200.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261201094500 +0100" stop="20261201131500 +0100">
+    <title lang="en">Live MotoGP</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a65bc668-8cf7-53c2-8388-18b9c83c708e.jpg" />
+  </programme>
   <programme channel="ee_uk.408" start="20261201100000 +0100" stop="20261201110000 +0100">
     <title lang="en">Serie A</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/0af7c493-fcae-548d-aaf9-2a77a010d4cf.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261201100000 +0100" stop="20261201110000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4918e873-a3dc-5e52-a628-7c8e449a32fb.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261201100000 +0100" stop="20261201103000 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
@@ -3943,15 +3686,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/95955536-098b-5b62-9ac1-3b4e18cb5745.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261201110000 +0100" stop="20261201111500 +0100">
-    <title lang="en">Premier League Reload</title>
+  <programme channel="ee_uk.408" start="20261201110000 +0100" stop="20261201123000 +0100">
+    <title lang="en">Premier League</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c33a77ea-42d1-5354-9650-87a557b43247.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261201110000 +0100" stop="20261201113000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a5c85871-5f6c-56d1-bc6e-62aaf3a8b3db.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/695d89e2-94d5-5d7e-b914-6d397f48ce9e.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261201110000 +0100" stop="20261201113000 +0100">
     <title lang="en">UEFA Champions League Magazine</title>
@@ -3968,29 +3706,24 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261201111500 +0100" stop="20261201124500 +0100">
-    <title lang="en">Premier League</title>
+  <programme channel="ee_uk.410" start="20261201113000 +0100" stop="20261201120000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/695d89e2-94d5-5d7e-b914-6d397f48ce9e.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261201113000 +0100" stop="20261201123000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/269636d9-84f0-56b7-9a2b-1f9bc21c9e08.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261201113000 +0100" stop="20261201123000 +0100">
-    <title lang="en">A-League</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/81f0c15f-7321-5b51-9cf3-d3efceccf4ec.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/97356c50-5c80-56b7-ba46-03a21447717f.jpg" />
   </programme>
   <programme channel="ee_uk.450" start="20261201113000 +0100" stop="20261201233000 +0100">
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.411" start="20261201120000 +0100" stop="20261201123000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
+  <programme channel="ee_uk.410" start="20261201120000 +0100" stop="20261201130000 +0100">
+    <title lang="en">A-League</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5c45eda4-975e-5eb6-b7ec-98935a1bb668.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/11d77eac-d5f8-5c4d-9ffd-bdd92b15968e.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261201120000 +0100" stop="20261201123000 +0100">
+    <title lang="en">SailGP - Racing on the Edge</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0bb077ac-ec69-5765-b89c-7e51599d0a8c.jpg" />
   </programme>
   <programme channel="ee_uk.419" start="20261201120000 +0100" stop="20261201203000 +0100">
     <title lang="en">Live One-Day International Cricket</title>
@@ -4002,27 +3735,12 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261201123000 +0100" stop="20261201130000 +0100">
-    <title lang="en">It's A Numbers Game</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/326d7bba-e933-507d-8530-affdca2a81bc.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261201123000 +0100" stop="20261201130000 +0100">
-    <title lang="en">A-League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/29d424f4-b448-5ed8-99e1-e9485dae48b2.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261201123000 +0100" stop="20261201130000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5a4c7fde-1d41-5544-8ea9-c37ed2fbefe4.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261201124500 +0100" stop="20261201134500 +0100">
+  <programme channel="ee_uk.408" start="20261201123000 +0100" stop="20261201133000 +0100">
     <title lang="en">Premier League Review</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a6e3826b-7d45-54fb-8319-deeecebd532f.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261201130000 +0100" stop="20261201140000 +0100">
+  <programme channel="ee_uk.411" start="20261201123000 +0100" stop="20261201133000 +0100">
     <title lang="en">Jaecoo PWR</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/2053665e-244c-5740-b329-f15e8c7a224b.jpg" />
@@ -4032,54 +3750,49 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/dbcc3239-e910-5137-92ee-94152da7c139.jpg" />
   </programme>
-  <programme channel="ee_uk.411" start="20261201130000 +0100" stop="20261201133000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7bcd9dc3-7673-570e-b0ea-51bb457adda6.jpg" />
-  </programme>
   <programme channel="ee_uk.420" start="20261201130000 +0100" stop="20261201133000 +0100">
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/fe3c00aa-d284-5b23-9395-3dcfcfe57740.jpg" />
   </programme>
-  <programme channel="ee_uk.411" start="20261201133000 +0100" stop="20261201140000 +0100">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
+  <programme channel="ee_uk.451" start="20261201130000 +0100" stop="20261202010000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c9f6d552-2f2c-54f9-8d53-bee95a8f0569.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261201131500 +0100" stop="20261201134500 +0100">
+    <title lang="en">Cyclocross</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/34c66159-6ecf-5a9b-83e3-1286353b94eb.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261201133000 +0100" stop="20261201140000 +0100">
+    <title lang="en">It's A Numbers Game</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/326d7bba-e933-507d-8530-affdca2a81bc.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261201133000 +0100" stop="20261201143000 +0100">
+    <title lang="en">Test Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/45f305d9-2b60-53c4-b48a-2a57929b5f9f.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261201133000 +0100" stop="20261201140000 +0100">
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/839ab35c-bd85-528c-ae33-36340a338d6c.jpg" />
   </programme>
-  <programme channel="virgin_uk.2258" start="20261201133000 +0100" stop="20261201193000 +0100">
-    <title lang="en">PL: Fulham v Bournemouth Hlts</title>
+  <programme channel="ee_uk.409" start="20261201134500 +0100" stop="20261201141500 +0100">
+    <title lang="en">Cyclocross</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261201134500 +0100" stop="20261201140000 +0100">
-    <title lang="en">Premier League Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c33a77ea-42d1-5354-9650-87a557b43247.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/59ddb1cd-3a32-5b86-a236-49f381fe7ca8.jpg" />
   </programme>
   <programme channel="ee_uk.408" start="20261201140000 +0100" stop="20261201173000 +0100">
     <title lang="en">Live: Snooker UK Championship</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/d125b19f-5e70-5286-bd3a-b80ba39acc61.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261201140000 +0100" stop="20261201150000 +0100">
-    <title lang="en">Test Cricket Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/45f305d9-2b60-53c4-b48a-2a57929b5f9f.jpg" />
-  </programme>
   <programme channel="ee_uk.410" start="20261201140000 +0100" stop="20261201173000 +0100">
     <title lang="en">Live: Snooker UK Championship</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5a2ecd98-dcea-555a-aa8d-780e02ca0e0b.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261201140000 +0100" stop="20261201143000 +0100">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c7674509-8ed8-5fc6-936e-160da045630d.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261201140000 +0100" stop="20261201143000 +0100">
     <title lang="en">Premier League Highlights</title>
@@ -4090,54 +3803,40 @@
     <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.411" start="20261201143000 +0100" stop="20261201150000 +0100">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
+  <programme channel="ee_uk.409" start="20261201141500 +0100" stop="20261201171500 +0100">
+    <title lang="en">Live MotoGP</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/69d4b111-cde9-5676-8067-1db9ff5d8bdf.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/a65bc668-8cf7-53c2-8388-18b9c83c708e.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261201143000 +0100" stop="20261201150000 +0100">
+    <title lang="en">ILT20 Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261201143000 +0100" stop="20261201150000 +0100">
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/09a9707c-79f3-5bd0-97be-432f132e9077.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261201150000 +0100" stop="20261201191500 +0100">
+  <programme channel="ee_uk.411" start="20261201150000 +0100" stop="20261201191500 +0100">
     <title lang="en">Live: ILT20</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/49a2e3c4-73d1-5beb-9acf-d94a5e5dcf5b.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261201150000 +0100" stop="20261201153000 +0100">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7af8c654-3524-5e4e-a0b6-5f440e84e917.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/416ec3ef-8769-5431-8944-83f03e7a53ba.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261201150000 +0100" stop="20261201153000 +0100">
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/95955536-098b-5b62-9ac1-3b4e18cb5745.jpg" />
   </programme>
-  <programme channel="ee_uk.411" start="20261201153000 +0100" stop="20261201163000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/269636d9-84f0-56b7-9a2b-1f9bc21c9e08.jpg" />
-  </programme>
   <programme channel="ee_uk.420" start="20261201153000 +0100" stop="20261201160000 +0100">
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/99e85fd3-b7ef-520a-9b50-96b7e095b9f7.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261201155000 +0100" stop="20261202035000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.420" start="20261201160000 +0100" stop="20261201163000 +0100">
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5dfdbbce-f048-5b6a-b330-e0de749e4c9d.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261201163000 +0100" stop="20261201173000 +0100">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/46d3ee27-3603-5f30-bb92-568306d43eb6.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261201163000 +0100" stop="20261201170000 +0100">
     <title lang="en">SNF</title>
@@ -4149,6 +3848,11 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/43626793-4fd1-5a6f-9ee9-30ff6148f268.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261201171500 +0100" stop="20261201181500 +0100">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/46d3ee27-3603-5f30-bb92-568306d43eb6.jpg" />
+  </programme>
   <programme channel="ee_uk.408" start="20261201173000 +0100" stop="20261201183000 +0100">
     <title lang="en">Rolex SailGP Championship</title>
     <category lang="en">Sports</category>
@@ -4159,11 +3863,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/ef461c5c-94c6-5133-8eeb-39de81099d1d.jpg" />
   </programme>
-  <programme channel="ee_uk.411" start="20261201173000 +0100" stop="20261201183000 +0100">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/bd1d003a-f904-57cf-b24c-4d27d72a058b.jpg" />
-  </programme>
   <programme channel="ee_uk.420" start="20261201180000 +0100" stop="20261201190000 +0100">
     <title lang="en">The Premier League Show</title>
     <category lang="en">Sports</category>
@@ -4173,7 +3872,12 @@
     <title lang="en">Bundesliga Highlights</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.408" start="20261201183000 +0100" stop="20261201190000 +0100">
+  <programme channel="ee_uk.409" start="20261201181500 +0100" stop="20261201191500 +0100">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/bd1d003a-f904-57cf-b24c-4d27d72a058b.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261201183000 +0100" stop="20261201190100 +0100">
     <title lang="en">It's A Numbers Game</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/326d7bba-e933-507d-8530-affdca2a81bc.jpg" />
@@ -4183,20 +3887,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/fc72e36a-9272-5e8b-9f5f-62ca69b79afc.jpg" />
   </programme>
-  <programme channel="ee_uk.411" start="20261201183000 +0100" stop="20261201193000 +0100">
-    <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e2dcd050-7d7e-5817-9252-b1e1248ebb73.jpg" />
-  </programme>
   <programme channel="ee_uk.410" start="20261201184500 +0100" stop="20261201194500 +0100">
     <title lang="en">Jaecoo PWR</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/2053665e-244c-5740-b329-f15e8c7a224b.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261201190000 +0100" stop="20261201193000 +0100">
-    <title lang="en">UEFA Champions League - Classics</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/97356c50-5c80-56b7-ba46-03a21447717f.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261201190000 +0100" stop="20261201200000 +0100">
     <title lang="en">The Premier League Show</title>
@@ -4208,15 +3902,34 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
   </programme>
+  <programme channel="virgin_uk.2258" start="20261201190000 +0100" stop="20261201193000 +0100">
+    <title lang="en">Live: The Premier League Show</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261201190100 +0100" stop="20261201191500 +0100">
+    <title lang="en">Premier League Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c33a77ea-42d1-5354-9650-87a557b43247.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261201191500 +0100" stop="20261201193000 +0100">
+    <title lang="en">Inside the Game</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f8bd3e97-ec7b-56b0-b5f4-e106ff98edec.jpg" />
+  </programme>
   <programme channel="ee_uk.409" start="20261201191500 +0100" stop="20261201194500 +0100">
     <title lang="en">A-League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/29d424f4-b448-5ed8-99e1-e9485dae48b2.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261201193000 +0100" stop="20261201200000 +0100">
-    <title lang="en">T100 Triathlon World Tour Highlights</title>
+  <programme channel="ee_uk.411" start="20261201191500 +0100" stop="20261201193000 +0100">
+    <title lang="en">Premier League Reload</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/74ebeea7-1321-59f7-8608-50983032da51.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/c33a77ea-42d1-5354-9650-87a557b43247.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261201193000 +0100" stop="20261201200000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/97356c50-5c80-56b7-ba46-03a21447717f.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261201193000 +0100" stop="20261201203000 +0100">
     <title lang="en">MotoGP</title>
@@ -4228,9 +3941,9 @@
     <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.409" start="20261201194500 +0100" stop="20261201200000 +0100">
-    <title lang="en">Inside the Game</title>
+    <title lang="en">Premier League Reload</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f8bd3e97-ec7b-56b0-b5f4-e106ff98edec.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/c33a77ea-42d1-5354-9650-87a557b43247.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261201194500 +0100" stop="20261201200000 +0100">
     <title lang="en">TNT Sports Cricket Reload</title>
@@ -4281,10 +3994,6 @@
     <title lang="en">Live: Premier League</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.451" start="20261201204500 +0100" stop="20261202060000 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.409" start="20261201210000 +0100" stop="20261201220000 +0100">
     <title lang="en">Test Cricket Highlights</title>
     <category lang="en">Sports</category>
@@ -4298,7 +4007,7 @@
   <programme channel="ee_uk.409" start="20261201220000 +0100" stop="20261201230000 +0100">
     <title lang="en">A-League</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/81f0c15f-7321-5b51-9cf3-d3efceccf4ec.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/11d77eac-d5f8-5c4d-9ffd-bdd92b15968e.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261201220000 +0100" stop="20261201230000 +0100">
     <title lang="en">MotoGP</title>
@@ -4315,15 +4024,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/01d2c9a4-953b-5b47-b6b5-a5e5b9cf80b8.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261201233000 +0100" stop="20261202003000 +0100">
-    <title lang="en">Serie A</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/cbce9cb6-80c7-5022-9411-d490247edf42.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261201233000 +0100" stop="20261201234500 +0100">
+  <programme channel="ee_uk.408" start="20261201233000 +0100" stop="20261201234500 +0100">
     <title lang="en">MotoGP Rewind</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/f72aa60d-9622-5d25-9297-783c5fafeb3f.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261201233000 +0100" stop="20261201234500 +0100">
+    <title lang="en">Inside the Game</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f8bd3e97-ec7b-56b0-b5f4-e106ff98edec.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261201233000 +0100" stop="20261202003000 +0100">
     <title lang="en">Fishing: On the Bank</title>
@@ -4349,9 +4058,14 @@
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="virgin_uk.2258" start="20261201233000 +0100" stop="20261202003000 +0100">
+  <programme channel="virgin_uk.2258" start="20261201233000 +0100" stop="20261202070000 +0100">
     <title lang="en">PL Stories: Coventry Rising</title>
     <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261201234500 +0100" stop="20261202004500 +0100">
+    <title lang="en">Serie A</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/cbce9cb6-80c7-5022-9411-d490247edf42.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261201234500 +0100" stop="20261202001500 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
@@ -4382,11 +4096,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/6a103ee1-4e72-516d-b24a-fa1491acc05f.jpg" />
   </programme>
-  <programme channel="ee_uk.408" start="20261202003000 +0100" stop="20261202013000 +0100">
-    <title lang="en">Serie A</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0af7c493-fcae-548d-aaf9-2a77a010d4cf.jpg" />
-  </programme>
   <programme channel="ee_uk.410" start="20261202003000 +0100" stop="20261202013000 +0100">
     <title lang="en">MLB Plays of the Week</title>
     <category lang="en">Sports</category>
@@ -4402,9 +4111,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7dd3552a-e4f1-5e6e-bbc8-8003be6857a8.jpg" />
   </programme>
-  <programme channel="virgin_uk.2258" start="20261202003000 +0100" stop="20261202070000 +0100">
-    <title lang="en">PL: Coventry v Ipswich Highlights</title>
+  <programme channel="ee_uk.408" start="20261202004500 +0100" stop="20261202014500 +0100">
+    <title lang="en">Serie A</title>
     <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0af7c493-fcae-548d-aaf9-2a77a010d4cf.jpg" />
   </programme>
   <programme channel="ee_uk.409" start="20261202004500 +0100" stop="20261202011500 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
@@ -4426,15 +4136,14 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/aae2d291-bae3-5a00-9cce-a742ad8b7a77.jpg" />
   </programme>
+  <programme channel="ee_uk.451" start="20261202010000 +0100" stop="20261202060000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.409" start="20261202011500 +0100" stop="20261202014500 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4e83487f-b4c8-556c-a943-d8105d802542.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261202013000 +0100" stop="20261202020000 +0100">
-    <title lang="en">A-League Highlights</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/29d424f4-b448-5ed8-99e1-e9485dae48b2.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202013000 +0100" stop="20261202020000 +0100">
     <title lang="en">MLB Classic</title>
@@ -4451,20 +4160,20 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a29204f9-c275-5563-9695-435d6a08d238.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261202014500 +0100" stop="20261202020000 +0100">
-    <title lang="en">MotoGP Rewind</title>
+  <programme channel="ee_uk.408" start="20261202014500 +0100" stop="20261202020000 +0100">
+    <title lang="en">Inside the Game</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f72aa60d-9622-5d25-9297-783c5fafeb3f.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/f8bd3e97-ec7b-56b0-b5f4-e106ff98edec.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261202014500 +0100" stop="20261202024500 +0100">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/46d3ee27-3603-5f30-bb92-568306d43eb6.jpg" />
   </programme>
   <programme channel="ee_uk.408" start="20261202020000 +0100" stop="20261202030000 +0100">
     <title lang="en">Rolex SailGP Championship</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/eaa452e2-baba-5bdb-a71f-f8d25e17baa7.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261202020000 +0100" stop="20261202030000 +0100">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/46d3ee27-3603-5f30-bb92-568306d43eb6.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202020000 +0100" stop="20261202030000 +0100">
     <title lang="en">The Emirates FA Cup</title>
@@ -4486,15 +4195,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/c9f6d552-2f2c-54f9-8d53-bee95a8f0569.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261202024500 +0100" stop="20261202034500 +0100">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/bd1d003a-f904-57cf-b24c-4d27d72a058b.jpg" />
+  </programme>
   <programme channel="ee_uk.408" start="20261202030000 +0100" stop="20261202033000 +0100">
     <title lang="en">T100 Triathlon World Tour Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9fdcc6e4-6bd2-586a-8620-0d310435e5a2.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261202030000 +0100" stop="20261202040000 +0100">
-    <title lang="en">UEFA Champions League Highlights Show</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/bd1d003a-f904-57cf-b24c-4d27d72a058b.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202030000 +0100" stop="20261202040000 +0100">
     <title lang="en">The Emirates FA Cup</title>
@@ -4516,14 +4225,14 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/69d4b111-cde9-5676-8067-1db9ff5d8bdf.jpg" />
   </programme>
-  <programme channel="ee_uk.452" start="20261202035000 +0100" stop="20261202060000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261202040000 +0100" stop="20261202050000 +0100">
+  <programme channel="ee_uk.409" start="20261202034500 +0100" stop="20261202044500 +0100">
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e2dcd050-7d7e-5817-9252-b1e1248ebb73.jpg" />
+  </programme>
+  <programme channel="ee_uk.452" start="20261202035000 +0100" stop="20261202060000 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.410" start="20261202040000 +0100" stop="20261202050000 +0100">
     <title lang="en">The Emirates FA Cup</title>
@@ -4548,7 +4257,7 @@
   <programme channel="ee_uk.408" start="20261202043000 +0100" stop="20261202053000 +0100">
     <title lang="en">A-League</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/81f0c15f-7321-5b51-9cf3-d3efceccf4ec.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/11d77eac-d5f8-5c4d-9ffd-bdd92b15968e.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261202043000 +0100" stop="20261202061500 +0100">
     <title lang="en">UFC Reloaded</title>
@@ -4560,15 +4269,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4b8c5a3e-a1df-556b-9c9c-ef9a580d071c.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261202044500 +0100" stop="20261202051500 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/7d66eca5-d204-53d0-9fd0-22e07797fa77.jpg" />
+  </programme>
   <programme channel="ee_uk.420" start="20261202044500 +0100" stop="20261202050000 +0100">
     <title lang="en">PL Greatest Games</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/a7185708-cffd-5db1-98ff-42a6181e9df8.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261202050000 +0100" stop="20261202053000 +0100">
-    <title lang="en">UEFA Champions League - Classics</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7d66eca5-d204-53d0-9fd0-22e07797fa77.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202050000 +0100" stop="20261202060000 +0100">
     <title lang="en">The Emirates FA Cup</title>
@@ -4578,24 +4287,24 @@
   <programme channel="ee_uk.419" start="20261202050000 +0100" stop="20261202070000 +0100">
     <title lang="en">Live NBA Basketball</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/dc25f170-1006-5a5f-8a80-30d333f7cb44.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/cde6d00c-528e-5550-bb65-f299a2cc637f.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261202050000 +0100" stop="20261202060000 +0100">
     <title lang="en">Premier League Best Goals</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/131aa0cf-5e14-539a-a2f6-19a2c18a2c54.jpg" />
   </programme>
+  <programme channel="ee_uk.409" start="20261202051500 +0100" stop="20261202054500 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9129af03-a0aa-5293-85a1-78c7f2ce5177.jpg" />
+  </programme>
   <programme channel="ee_uk.408" start="20261202053000 +0100" stop="20261202063000 +0100">
     <title lang="en">Jaecoo PWR</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/2053665e-244c-5740-b329-f15e8c7a224b.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261202053000 +0100" stop="20261202060000 +0100">
-    <title lang="en">UEFA Champions League - Classics</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9129af03-a0aa-5293-85a1-78c7f2ce5177.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261202060000 +0100" stop="20261202063000 +0100">
+  <programme channel="ee_uk.409" start="20261202054500 +0100" stop="20261202061500 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/aec6a58b-035b-53ad-acbe-e6e5830fd75e.jpg" />
@@ -4614,7 +4323,7 @@
     <title lang="en">This is TNT Sports 5</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.451" start="20261202060000 +0100" stop="20261202084500 +0100">
+  <programme channel="ee_uk.451" start="20261202060000 +0100" stop="20261202130000 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
   </programme>
@@ -4622,9 +4331,14 @@
     <title lang="en">This is TNT Sports 7</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="virgin_uk.2265" start="20261202060000 +0100" stop="20261202120000 +0100">
+  <programme channel="virgin_uk.2265" start="20261202060000 +0100" stop="20261202140000 +0100">
     <title lang="en">SPFL 2017/18: Kilmarnock v Hibs</title>
     <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261202061500 +0100" stop="20261202064500 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/15ad5647-9ab3-5b5a-8046-dfb2bdf6febc.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261202061500 +0100" stop="20261202064500 +0100">
     <title lang="en">It's A Numbers Game</title>
@@ -4636,15 +4350,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/758f12d9-402e-5801-a3de-394c513f14fb.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261202063000 +0100" stop="20261202070000 +0100">
-    <title lang="en">UEFA Champions League - Classics</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/15ad5647-9ab3-5b5a-8046-dfb2bdf6febc.jpg" />
-  </programme>
   <programme channel="ee_uk.420" start="20261202063000 +0100" stop="20261202070000 +0100">
     <title lang="en">Premier League 100 Club</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/44e79ea5-12c3-5a53-8e1e-3a5a6fdc6f12.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261202064500 +0100" stop="20261202070000 +0100">
+    <title lang="en">Inside the Game</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f8bd3e97-ec7b-56b0-b5f4-e106ff98edec.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261202064500 +0100" stop="20261202070000 +0100">
     <title lang="en">Groundbreaking</title>
@@ -4674,7 +4388,7 @@
   <programme channel="ee_uk.419" start="20261202070000 +0100" stop="20261202080000 +0100">
     <title lang="en">Live NBA Basketball</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/dc25f170-1006-5a5f-8a80-30d333f7cb44.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/cde6d00c-528e-5550-bb65-f299a2cc637f.jpg" />
   </programme>
   <programme channel="ee_uk.420" start="20261202070000 +0100" stop="20261202071500 +0100">
     <title lang="en">PL Greatest Games</title>
@@ -4686,7 +4400,7 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
   </programme>
-  <programme channel="virgin_uk.2258" start="20261202070000 +0100" stop="20261202123000 +0100">
+  <programme channel="virgin_uk.2258" start="20261202070000 +0100" stop="20261202180000 +0100">
     <title lang="en">PL Greatest Games:Newc/Arsenal '11</title>
     <category lang="en">Sports</category>
   </programme>
@@ -4745,19 +4459,15 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5c45eda4-975e-5eb6-b7ec-98935a1bb668.jpg" />
   </programme>
-  <programme channel="ee_uk.451" start="20261202084500 +0100" stop="20261202204500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.408" start="20261202090000 +0100" stop="20261202124500 +0100">
     <title lang="en">Live International T20 Cricket</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/3e9f46c3-944f-5fd2-85ec-b9cc178450f9.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261202090000 +0100" stop="20261202093000 +0100">
+  <programme channel="ee_uk.409" start="20261202090000 +0100" stop="20261202100000 +0100">
     <title lang="en">MotoGP</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a5c85871-5f6c-56d1-bc6e-62aaf3a8b3db.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/269636d9-84f0-56b7-9a2b-1f9bc21c9e08.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202090000 +0100" stop="20261202093000 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
@@ -4779,11 +4489,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7dd3552a-e4f1-5e6e-bbc8-8003be6857a8.jpg" />
   </programme>
-  <programme channel="ee_uk.409" start="20261202093000 +0100" stop="20261202103000 +0100">
-    <title lang="en">MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/269636d9-84f0-56b7-9a2b-1f9bc21c9e08.jpg" />
-  </programme>
   <programme channel="ee_uk.410" start="20261202093000 +0100" stop="20261202100000 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
     <category lang="en">Sports</category>
@@ -4793,6 +4498,11 @@
     <title lang="en">Premier League 100 Club</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/c239099a-5229-5c00-bab5-ac548f533560.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261202100000 +0100" stop="20261202103000 +0100">
+    <title lang="en">ILT20 Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202100000 +0100" stop="20261202103000 +0100">
     <title lang="en">Women's Alpine Skiing World Cup</title>
@@ -4817,7 +4527,7 @@
   <programme channel="ee_uk.409" start="20261202103000 +0100" stop="20261202150000 +0100">
     <title lang="en">Live: ILT20</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/49a2e3c4-73d1-5beb-9acf-d94a5e5dcf5b.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/dfc7a80c-e008-56e0-9b62-015a72b62d08.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261202103000 +0100" stop="20261202110000 +0100">
     <title lang="en">Men's Alpine Skiing World Cup</title>
@@ -4873,18 +4583,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
   </programme>
-  <programme channel="virgin_uk.2265" start="20261202120000 +0100" stop="20261202180000 +0100">
-    <title lang="en">Bundesliga Highlights</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme channel="ee_uk.410" start="20261202123000 +0100" stop="20261202130000 +0100">
     <title lang="en">UEFA Champions League - Classics</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/85991107-0be3-598b-a9d8-b888592a9bc0.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261202123000 +0100" stop="20261202180000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
   </programme>
   <programme channel="ee_uk.408" start="20261202124500 +0100" stop="20261202130000 +0100">
     <title lang="en">Groundbreaking</title>
@@ -4946,6 +4648,10 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/7dd3552a-e4f1-5e6e-bbc8-8003be6857a8.jpg" />
   </programme>
+  <programme channel="virgin_uk.2265" start="20261202140000 +0100" stop="20261202180000 +0100">
+    <title lang="en">EFL 16/17: Man Utd v Southampton</title>
+    <category lang="en">Sports</category>
+  </programme>
   <programme channel="ee_uk.420" start="20261202143000 +0100" stop="20261202150000 +0100">
     <title lang="en">Premier League Icons</title>
     <category lang="en">Sports</category>
@@ -4954,12 +4660,12 @@
   <programme channel="ee_uk.409" start="20261202150000 +0100" stop="20261202191500 +0100">
     <title lang="en">Live: ILT20</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/49a2e3c4-73d1-5beb-9acf-d94a5e5dcf5b.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/39ee1997-9aee-5cfd-9df4-8b77228f75f0.jpg" />
   </programme>
   <programme channel="ee_uk.411" start="20261202150000 +0100" stop="20261202160000 +0100">
     <title lang="en">A-League</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/81f0c15f-7321-5b51-9cf3-d3efceccf4ec.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/11d77eac-d5f8-5c4d-9ffd-bdd92b15968e.jpg" />
   </programme>
   <programme channel="ee_uk.419" start="20261202150000 +0100" stop="20261202160000 +0100">
     <title lang="en">Sports Desk</title>
@@ -5228,7 +4934,7 @@
     <title lang="en">PL: Manchester City v Leeds Hlts</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="virgin_uk.2265" start="20261203001500 +0100" stop="20261203011500 +0100">
+  <programme channel="virgin_uk.2265" start="20261203001500 +0100" stop="20261203071500 +0100">
     <title lang="en">EFL 26/27: Lincoln City v Wolves</title>
     <category lang="en">Sports</category>
   </programme>
@@ -5240,7 +4946,7 @@
   <programme channel="ee_uk.409" start="20261203003000 +0100" stop="20261203013000 +0100">
     <title lang="en">A-League</title>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/81f0c15f-7321-5b51-9cf3-d3efceccf4ec.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/11d77eac-d5f8-5c4d-9ffd-bdd92b15968e.jpg" />
   </programme>
   <programme channel="ee_uk.410" start="20261203003000 +0100" stop="20261203004500 +0100">
     <title lang="en">MotoGP Rewind</title>
@@ -5256,5 +4962,856 @@
     <title lang="en">Premier League Highlights</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/cec68978-42c2-59e7-ac37-63f840c33be8.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203010000 +0100" stop="20261203020000 +0100">
+    <title lang="en">UFC Main Event</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ef88d19f-99bc-5505-a782-0f5e961fcae2.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203011500 +0100" stop="20261203014500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2132b1f1-96fc-507a-a0b5-b01360edd8ff.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203013000 +0100" stop="20261203020000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f786264e-30c5-583b-99eb-dc5b6c2522e6.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203014500 +0100" stop="20261203020000 +0100">
+    <title lang="en">TNT Sports Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/052ac3fb-bf5e-531a-a573-4a85a84a7169.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203014500 +0100" stop="20261203021500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dfcb7423-e834-5a24-807c-688618f82cff.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203020000 +0100" stop="20261203023000 +0100">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/74ebeea7-1321-59f7-8608-50983032da51.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203020000 +0100" stop="20261203023000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/22028910-814b-5211-93e0-fec690168830.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203020000 +0100" stop="20261203030000 +0100">
+    <title lang="en">The Emirates FA Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/62317271-5b02-5e7f-ae14-44d188a01dd7.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203020000 +0100" stop="20261203030000 +0100">
+    <title lang="en">UFC Main Event</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a6a27528-a15e-5c4a-a3f3-5b4500b17c0a.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203020000 +0100" stop="20261203070000 +0100">
+    <title lang="en">Live DP World Tour Golf</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ab0df7a8-2539-5e83-b529-8a0338805b4c.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203021500 +0100" stop="20261203024500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8b8672a8-bce9-5cef-885c-8307c14e9cc2.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203023000 +0100" stop="20261203033000 +0100">
+    <title lang="en">MotoGP Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0aae52b0-b692-5f01-a5b7-b561754b4f93.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203023000 +0100" stop="20261203030000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/28faa0cf-9499-51f8-a538-d90e5c8e908e.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203024500 +0100" stop="20261203031500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/b666adae-56ee-5d43-a850-deac2c6956b3.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203030000 +0100" stop="20261203033000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8f366658-c7de-5e9c-a03e-0b2c461d3f81.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203030000 +0100" stop="20261203040000 +0100">
+    <title lang="en">The Emirates FA Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f52b3348-64a6-53c4-a2eb-2d7110ad5e63.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203030000 +0100" stop="20261203040000 +0100">
+    <title lang="en">UFC Main Event</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a18e60b8-0248-5e53-839b-56a8110cdffb.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203031500 +0100" stop="20261203034500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/65111d7d-e8cb-5628-af56-1870b378ca03.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203033000 +0100" stop="20261203043000 +0100">
+    <title lang="en">MLB Plays of the Week</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/70fbd37c-2de8-5dfb-8d7a-68317da67a78.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203033000 +0100" stop="20261203040000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0f18a27f-e74f-5804-98e6-420bc70f5b8f.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203034500 +0100" stop="20261203041500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4997fcc1-1c05-5c61-848e-46518097a329.jpg" />
+  </programme>
+  <programme channel="ee_uk.452" start="20261203035000 +0100" stop="20261203060000 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261203040000 +0100" stop="20261203050000 +0100">
+    <title lang="en">Serie A</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/cbce9cb6-80c7-5022-9411-d490247edf42.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203040000 +0100" stop="20261203050000 +0100">
+    <title lang="en">The Emirates FA Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c836b7b4-d9ff-54c5-8b22-479a8a38761b.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203040000 +0100" stop="20261203063000 +0100">
+    <title lang="en">UFC Reloaded</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/75642e4d-389b-5294-82be-21115dc82101.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203041500 +0100" stop="20261203043000 +0100">
+    <title lang="en">PL Greatest Games</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/68a02760-eb39-5ac8-9412-a04d3756a28e.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203043000 +0100" stop="20261203053000 +0100">
+    <title lang="en">MLB Classic</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/84fdf52e-d58f-51eb-98fd-ce67d58b3a5f.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203043000 +0100" stop="20261203044500 +0100">
+    <title lang="en">PL Greatest Games</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ee5c13c8-5a6a-5c29-9d50-e894413beccf.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203044500 +0100" stop="20261203050000 +0100">
+    <title lang="en">PL Greatest Games</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/395adf21-521d-55b2-be54-fd36f794c7d5.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203050000 +0100" stop="20261203060000 +0100">
+    <title lang="en">Serie A</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0af7c493-fcae-548d-aaf9-2a77a010d4cf.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203050000 +0100" stop="20261203060000 +0100">
+    <title lang="en">The Emirates FA Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8d5bda74-f068-50ab-9a27-08292325f721.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203050000 +0100" stop="20261203060000 +0100">
+    <title lang="en">Premier League Best Goals</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e34cd3f6-cb92-53f1-ae0c-dcf69477399c.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203053000 +0100" stop="20261203060000 +0100">
+    <title lang="en">MLB Classic</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/624f664b-e83c-515d-8fbe-3a01bb63093f.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203060000 +0100" stop="20261203063000 +0100">
+    <title lang="en">MLB Classic</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e189d7a2-df5e-5656-89c1-3c84630b7cd9.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203060000 +0100" stop="20261203070000 +0100">
+    <title lang="en">Jaecoo PWR</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2053665e-244c-5740-b329-f15e8c7a224b.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203060000 +0100" stop="20261203063000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/31e57069-157d-5ad0-8be2-420d5636e3e5.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203060000 +0100" stop="20261203063000 +0100">
+    <title lang="en">Premier League Legends</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/bd1fec2c-e57d-5b7e-b4c0-e9a6d174ca38.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261203060000 +0100" stop="20261203113000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.451" start="20261203060000 +0100" stop="20261203130000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.452" start="20261203060000 +0100" stop="20261203160500 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203063000 +0100" stop="20261203070000 +0100">
+    <title lang="en">MLB Classic</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ac2bc532-8db4-5374-ac58-a7c00f42c9fb.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203063000 +0100" stop="20261203070000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9629f283-899f-5907-8088-2114e52e427d.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203063000 +0100" stop="20261203070000 +0100">
+    <title lang="en">A-League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/29d424f4-b448-5ed8-99e1-e9485dae48b2.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203063000 +0100" stop="20261203070000 +0100">
+    <title lang="en">Premier League 100: David James</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/b3074128-45d8-5ef6-b4ff-1f501d8b5ef7.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203070000 +0100" stop="20261203073000 +0100">
+    <title lang="en">TNT Sports Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/052ac3fb-bf5e-531a-a573-4a85a84a7169.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203070000 +0100" stop="20261203073000 +0100">
+    <title lang="en">Serie A - Full Impact</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dc5b6634-91e3-526a-a473-de7a8ac133c6.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203070000 +0100" stop="20261203074500 +0100">
+    <title lang="en">Ally's Social Club</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/da8a3164-5009-5ff9-9842-5b764293dc75.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203070000 +0100" stop="20261203080000 +0100">
+    <title lang="en">WRC Review</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/745cdbad-1640-59a3-a642-3dc2694dddef.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203070000 +0100" stop="20261203080000 +0100">
+    <title lang="en">Sky Sports News</title>
+    <category lang="en">News</category>
+    <icon src="https://tv.assets.pressassociation.io/73302b6e-6012-5a9c-be81-8898cf77c512.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203070000 +0100" stop="20261203073000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4bf4a0a5-b60f-55ad-a25a-daf27428f7da.jpg" />
+  </programme>
+  <programme channel="ee_uk.433" start="20261203070000 +0100" stop="20261203190000 +0100">
+    <title lang="en">This Is TNT Sports Ultimate</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
+  </programme>
+  <programme channel="virgin_uk.2258" start="20261203070000 +0100" stop="20261203190000 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="virgin_uk.2265" start="20261203071500 +0100" stop="20261203131500 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203073000 +0100" stop="20261203093000 +0100">
+    <title lang="en">Test Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a57aa8ba-e2bd-538a-9252-e5d63bce20fe.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203073000 +0100" stop="20261203083000 +0100">
+    <title lang="en">A-League</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/11d77eac-d5f8-5c4d-9ffd-bdd92b15968e.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203073000 +0100" stop="20261203080000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/cec68978-42c2-59e7-ac37-63f840c33be8.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203074500 +0100" stop="20261203080000 +0100">
+    <title lang="en">FA Cup: The People's Story - Crystal Palace</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/bf7c654e-63a8-5596-996e-91fdbb787c63.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203080000 +0100" stop="20261203083000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a0095415-43dc-535a-9e98-e27016e3ed4a.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203080000 +0100" stop="20261203090000 +0100">
+    <title lang="en">WRC Review</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d12fa4ae-652c-510e-be06-2ffc5960dc57.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203080000 +0100" stop="20261203090000 +0100">
+    <title lang="en">Sky Sports Breakfast</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/19a5e2f0-045a-5764-91b7-2d32637c732b.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203080000 +0100" stop="20261203083000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2132b1f1-96fc-507a-a0b5-b01360edd8ff.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203083000 +0100" stop="20261203093000 +0100">
+    <title lang="en">Rolex SailGP Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/eaa452e2-baba-5bdb-a71f-f8d25e17baa7.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203083000 +0100" stop="20261203090000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/39f9c51e-0463-5a27-9ad1-62f677196f51.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203083000 +0100" stop="20261203090000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dfcb7423-e834-5a24-807c-688618f82cff.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203090000 +0100" stop="20261203093000 +0100">
+    <title lang="en">Women's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5c45eda4-975e-5eb6-b7ec-98935a1bb668.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203090000 +0100" stop="20261203100000 +0100">
+    <title lang="en">WRC Review</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a1cc313b-5beb-5a00-b73b-6badac06a8b2.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203090000 +0100" stop="20261203100000 +0100">
+    <title lang="en">Sky Sports Breakfast</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/19a5e2f0-045a-5764-91b7-2d32637c732b.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203090000 +0100" stop="20261203093000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8b8672a8-bce9-5cef-885c-8307c14e9cc2.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203093000 +0100" stop="20261203103000 +0100">
+    <title lang="en">International T20 Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e7beb5af-ae62-568d-8f70-03a864458e66.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203093000 +0100" stop="20261203103000 +0100">
+    <title lang="en">Fishing: On the Bank</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dbcc3239-e910-5137-92ee-94152da7c139.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203093000 +0100" stop="20261203100000 +0100">
+    <title lang="en">Women's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5a4c7fde-1d41-5544-8ea9-c37ed2fbefe4.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203093000 +0100" stop="20261203100000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/b666adae-56ee-5d43-a850-deac2c6956b3.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203100000 +0100" stop="20261203103000 +0100">
+    <title lang="en">Women's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/7bcd9dc3-7673-570e-b0ea-51bb457adda6.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203100000 +0100" stop="20261203110000 +0100">
+    <title lang="en">NWSL</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/510664e2-19e2-5f32-a6e6-34578c06651b.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203100000 +0100" stop="20261203153000 +0100">
+    <title lang="en">Live DP World Tour Golf</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8c0d5917-2e01-5ccc-ba2f-af46451f3e2b.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203100000 +0100" stop="20261203103000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/65111d7d-e8cb-5628-af56-1870b378ca03.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203103000 +0100" stop="20261203110000 +0100">
+    <title lang="en">Premier League Stories</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8756abec-885a-585a-8aba-72f606eaaec9.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203103000 +0100" stop="20261203113000 +0100">
+    <title lang="en">MotoGP Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0aae52b0-b692-5f01-a5b7-b561754b4f93.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203103000 +0100" stop="20261203110000 +0100">
+    <title lang="en">Women's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c9f6d552-2f2c-54f9-8d53-bee95a8f0569.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203103000 +0100" stop="20261203110000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4997fcc1-1c05-5c61-848e-46518097a329.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203110000 +0100" stop="20261203113000 +0100">
+    <title lang="en">A-League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/29d424f4-b448-5ed8-99e1-e9485dae48b2.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203110000 +0100" stop="20261203113000 +0100">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c7674509-8ed8-5fc6-936e-160da045630d.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203110000 +0100" stop="20261203120000 +0100">
+    <title lang="en">NWSL</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ec48553a-f9c9-56b6-88c2-9ceba8ef8b00.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203110000 +0100" stop="20261203120000 +0100">
+    <title lang="en">Sky Sports FC</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9ebd32ac-d11c-55c7-a646-aab6f1a8ed84.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203113000 +0100" stop="20261203120000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f7f4065e-de02-5825-90ec-5da293dc6fd3.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203113000 +0100" stop="20261203120000 +0100">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9fdcc6e4-6bd2-586a-8620-0d310435e5a2.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203113000 +0100" stop="20261203120000 +0100">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/69d4b111-cde9-5676-8067-1db9ff5d8bdf.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261203113000 +0100" stop="20261203140000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203120000 +0100" stop="20261203123000 +0100">
+    <title lang="en">Serie A - Full Impact</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dc5b6634-91e3-526a-a473-de7a8ac133c6.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203120000 +0100" stop="20261203140000 +0100">
+    <title lang="en">Test Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a57aa8ba-e2bd-538a-9252-e5d63bce20fe.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203120000 +0100" stop="20261203123000 +0100">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/7af8c654-3524-5e4e-a0b6-5f440e84e917.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203120000 +0100" stop="20261203130000 +0100">
+    <title lang="en">NWSL</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/616d76ab-5543-59e2-9322-9132bc3f8058.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203120000 +0100" stop="20261203130000 +0100">
+    <title lang="en">Ref Watch</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c9361e41-8187-5c20-b414-849337cfb138.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203123000 +0100" stop="20261203140000 +0100">
+    <title lang="en">Ultimate Pool</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1d71e7f8-6691-5854-b73a-558c1e8934cf.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203123000 +0100" stop="20261203130000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d9978be2-dbad-5090-85a8-e8a805f26151.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203130000 +0100" stop="20261203133000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/599d8541-9185-5782-a1d8-3f5befc014b6.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203130000 +0100" stop="20261203140000 +0100">
+    <title lang="en">Jaecoo PWR</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2053665e-244c-5740-b329-f15e8c7a224b.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203130000 +0100" stop="20261203133000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4bf4a0a5-b60f-55ad-a25a-daf27428f7da.jpg" />
+  </programme>
+  <programme channel="ee_uk.451" start="20261203130000 +0100" stop="20261204010000 +0100">
+    <title lang="en">This is TNT Sports 6</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="virgin_uk.2265" start="20261203131500 +0100" stop="20261203191500 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.410" start="20261203133000 +0100" stop="20261203140000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/299fac63-fd1e-5be8-8c8d-cfb9736f09f3.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203133000 +0100" stop="20261203140000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/cec68978-42c2-59e7-ac37-63f840c33be8.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203140000 +0100" stop="20261203173000 +0100">
+    <title lang="en">Live: Snooker UK Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ccb7ffce-94fa-556d-bf5b-8400f8e3ba1b.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203140000 +0100" stop="20261203143000 +0100">
+    <title lang="en">ILT20 Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203140000 +0100" stop="20261203173000 +0100">
+    <title lang="en">Live: Snooker UK Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/080fef33-da25-56b9-a8e0-ee41ebfdf816.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203140000 +0100" stop="20261203143000 +0100">
+    <title lang="en">Cyclocross</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/01d2c9a4-953b-5b47-b6b5-a5e5b9cf80b8.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203140000 +0100" stop="20261203143000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2132b1f1-96fc-507a-a0b5-b01360edd8ff.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261203140000 +0100" stop="20261203173000 +0100">
+    <title lang="en">Live: Snooker : UK Championship - Round 2</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261203143000 +0100" stop="20261203150000 +0100">
+    <title lang="en">ILT20 Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/221c3ad8-0a0e-5a53-916e-252051ba0618.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203143000 +0100" stop="20261203150000 +0100">
+    <title lang="en">Cyclocross</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/34c66159-6ecf-5a9b-83e3-1286353b94eb.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203143000 +0100" stop="20261203150000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dfcb7423-e834-5a24-807c-688618f82cff.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203150000 +0100" stop="20261203191500 +0100">
+    <title lang="en">Live: ILT20</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/30c3a41c-5420-5b02-8628-42a6705da6cc.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203150000 +0100" stop="20261203153000 +0100">
+    <title lang="en">Cyclocross</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c27418fc-e8e2-54f0-a7d3-96aec91769c2.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203150000 +0100" stop="20261203153000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8b8672a8-bce9-5cef-885c-8307c14e9cc2.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203153000 +0100" stop="20261203160000 +0100">
+    <title lang="en">Cyclocross</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/59ddb1cd-3a32-5b86-a236-49f381fe7ca8.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203153000 +0100" stop="20261203183000 +0100">
+    <title lang="en">Live World Champions Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d781e16d-10b4-5c97-8e50-813f7d538dc0.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203153000 +0100" stop="20261203160000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/b666adae-56ee-5d43-a850-deac2c6956b3.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203160000 +0100" stop="20261203170000 +0100">
+    <title lang="en">MLB Plays of the Week</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/70fbd37c-2de8-5dfb-8d7a-68317da67a78.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203160000 +0100" stop="20261203163000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/65111d7d-e8cb-5628-af56-1870b378ca03.jpg" />
+  </programme>
+  <programme channel="ee_uk.452" start="20261203160500 +0100" stop="20261204040500 +0100">
+    <title lang="en">This is TNT Sports 7</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.420" start="20261203163000 +0100" stop="20261203170000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4997fcc1-1c05-5c61-848e-46518097a329.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203170000 +0100" stop="20261203180000 +0100">
+    <title lang="en">Fishing: On the Bank</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dbcc3239-e910-5137-92ee-94152da7c139.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203170000 +0100" stop="20261203173000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4bf4a0a5-b60f-55ad-a25a-daf27428f7da.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203173000 +0100" stop="20261203180000 +0100">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8f359377-ec3b-5bd0-85b7-8fbb2acdcf68.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203173000 +0100" stop="20261203190000 +0100">
+    <title lang="en">Ultimate Pool</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1d71e7f8-6691-5854-b73a-558c1e8934cf.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203173000 +0100" stop="20261203180000 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/cec68978-42c2-59e7-ac37-63f840c33be8.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261203173000 +0100" stop="20261203184500 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203180000 +0100" stop="20261203183000 +0100">
+    <title lang="en">Serie A - Full Impact</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dc5b6634-91e3-526a-a473-de7a8ac133c6.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203180000 +0100" stop="20261203183000 +0100">
+    <title lang="en">The Breakdown</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203180000 +0100" stop="20261203190000 +0100">
+    <title lang="en">The Premier League Show</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d3672491-751d-5e4d-8583-c2317ca87e2f.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203183000 +0100" stop="20261203190000 +0100">
+    <title lang="en">Inside Serie A</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6cb7fb0a-744a-503b-8a99-65f08bf0154d.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203183000 +0100" stop="20261203184500 +0100">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/113018d1-880e-5b5d-a644-01407def57db.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203183000 +0100" stop="20261203203000 +0100">
+    <title lang="en">Live PGA Tour Golf</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0a0736c7-e5eb-554c-94b3-ef6175615e13.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203184500 +0100" stop="20261203210000 +0100">
+    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/3fd5cffb-df3a-5288-a841-896ff7c21959.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261203184500 +0100" stop="20261203210000 +0100">
+    <title lang="en">Live: Alpine Skiing World Cup: Beaver Creek - Men's Downhill</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203190000 +0100" stop="20261203193000 +0100">
+    <title lang="en">Premier League Stories</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8756abec-885a-585a-8aba-72f606eaaec9.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203190000 +0100" stop="20261203193000 +0100">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9fdcc6e4-6bd2-586a-8620-0d310435e5a2.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203190000 +0100" stop="20261203200000 +0100">
+    <title lang="en">The Premier League Show</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d3672491-751d-5e4d-8583-c2317ca87e2f.jpg" />
+  </programme>
+  <programme channel="ee_uk.433" start="20261203190000 +0100" stop="20261204070000 +0100">
+    <title lang="en">This Is TNT Sports Ultimate</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
+  </programme>
+  <programme channel="virgin_uk.2258" start="20261203190000 +0100" stop="20261203193000 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261203191500 +0100" stop="20261203193000 +0100">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c5605bd7-314f-5c95-9b0d-416093211dcd.jpg" />
+  </programme>
+  <programme channel="virgin_uk.2265" start="20261203191500 +0100" stop="20261204011500 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203193000 +0100" stop="20261203200000 +0100">
+    <title lang="en">Premier League - The Big Interview</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ad8b65e5-f3f5-572f-99e6-8e8640cc7f13.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203193000 +0100" stop="20261203200000 +0100">
+    <title lang="en">A-League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/29d424f4-b448-5ed8-99e1-e9485dae48b2.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203193000 +0100" stop="20261203200000 +0100">
+    <title lang="en">The Breakdown</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6f494374-63ca-5cea-89d3-d505fce77a24.jpg" />
+  </programme>
+  <programme channel="virgin_uk.2258" start="20261203193000 +0100" stop="20261203203000 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.408" start="20261203200000 +0100" stop="20261203233000 +0100">
+    <title lang="en">Live: Snooker UK Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1037f044-ac8e-53b5-919a-5c71eb4e99b6.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203200000 +0100" stop="20261203210000 +0100">
+    <title lang="en">MotoGP Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0aae52b0-b692-5f01-a5b7-b561754b4f93.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203200000 +0100" stop="20261203233000 +0100">
+    <title lang="en">Live: Snooker UK Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/282b0d42-547d-5767-9d91-31eaab00a343.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203200000 +0100" stop="20261203203000 +0100">
+    <title lang="en">The Big Interview</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c815ea78-6366-5f3f-a696-14db8edd7002.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203203000 +0100" stop="20261203234500 +0100">
+    <title lang="en">Live Premier League</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9cc4782a-4c22-509e-9a46-c0ab9f2ab20e.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203203000 +0100" stop="20261203234500 +0100">
+    <title lang="en">Live Premier League</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9cc4782a-4c22-509e-9a46-c0ab9f2ab20e.jpg" />
+  </programme>
+  <programme channel="virgin_uk.2258" start="20261203203000 +0100" stop="20261203234500 +0100">
+    <title lang="en">Live: Premier League</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261203210000 +0100" stop="20261203220000 +0100">
+    <title lang="en">Jaecoo PWR</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2053665e-244c-5740-b329-f15e8c7a224b.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203210000 +0100" stop="20261203220000 +0100">
+    <title lang="en">IBSF World Cup</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a682648b-ad9e-51cf-8f54-bf576f88583f.jpg" />
+  </programme>
+  <programme channel="ee_uk.450" start="20261203210000 +0100" stop="20261204060000 +0100">
+    <title lang="en">This is TNT Sports 5</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.409" start="20261203220000 +0100" stop="20261203223000 +0100">
+    <title lang="en">Serie A - Full Impact</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dc5b6634-91e3-526a-a473-de7a8ac133c6.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261203220000 +0100" stop="20261204000000 +0100">
+    <title lang="en">Test Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a57aa8ba-e2bd-538a-9252-e5d63bce20fe.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203223000 +0100" stop="20261203233000 +0100">
+    <title lang="en">Fishing: On the Bank</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/dbcc3239-e910-5137-92ee-94152da7c139.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261203233000 +0100" stop="20261204003000 +0100">
+    <title lang="en">MotoGP Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0aae52b0-b692-5f01-a5b7-b561754b4f93.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261203233000 +0100" stop="20261204003000 +0100">
+    <title lang="en">Rolex SailGP Championship</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/eaa452e2-baba-5bdb-a71f-f8d25e17baa7.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203233000 +0100" stop="20261203234500 +0100">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c5605bd7-314f-5c95-9b0d-416093211dcd.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261203234500 +0100" stop="20261204000000 +0100">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/113018d1-880e-5b5d-a644-01407def57db.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261203234500 +0100" stop="20261204000000 +0100">
+    <title lang="en">Paper Talk</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/82627b24-c0d5-5316-91db-955acb0e3379.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261203234500 +0100" stop="20261204001500 +0100">
+    <title lang="en">Premier League Stories</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5927ed13-7499-5b48-9236-16ed39493a1b.jpg" />
+  </programme>
+  <programme channel="virgin_uk.2258" start="20261203234500 +0100" stop="20261204070000 +0100">
+    <title lang="en">This is Ultra HD</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="ee_uk.410" start="20261204000000 +0100" stop="20261204003000 +0100">
+    <title lang="en">TNT Sports Reload</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/052ac3fb-bf5e-531a-a573-4a85a84a7169.jpg" />
+  </programme>
+  <programme channel="ee_uk.411" start="20261204000000 +0100" stop="20261204010000 +0100">
+    <title lang="en">International T20 Cricket Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e7beb5af-ae62-568d-8f70-03a864458e66.jpg" />
+  </programme>
+  <programme channel="ee_uk.419" start="20261204000000 +0100" stop="20261204010000 +0100">
+    <title lang="en">Sky Sports News</title>
+    <category lang="en">News</category>
+    <icon src="https://tv.assets.pressassociation.io/73302b6e-6012-5a9c-be81-8898cf77c512.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261204001500 +0100" stop="20261204004500 +0100">
+    <title lang="en">The Big Interview</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/c815ea78-6366-5f3f-a696-14db8edd7002.jpg" />
+  </programme>
+  <programme channel="ee_uk.408" start="20261204003000 +0100" stop="20261204010000 +0100">
+    <title lang="en">TCR World Tour Review</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f2bdc37b-992d-540b-9cdd-8c2583c0f1ca.jpg" />
+  </programme>
+  <programme channel="ee_uk.409" start="20261204003000 +0100" stop="20261204020000 +0100">
+    <title lang="en">Ultimate Pool</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1d71e7f8-6691-5854-b73a-558c1e8934cf.jpg" />
+  </programme>
+  <programme channel="ee_uk.410" start="20261204003000 +0100" stop="20261204010000 +0100">
+    <title lang="en">MLB Classic</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/db28cbc2-c8a7-5788-b56f-7c9391c43e8d.jpg" />
+  </programme>
+  <programme channel="ee_uk.420" start="20261204004500 +0100" stop="20261204011500 +0100">
+    <title lang="en">Premier League Highlights</title>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6dea9c02-8ef3-5769-bc69-95b899caa9e4.jpg" />
   </programme>
 </tv>
