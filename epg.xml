@@ -48,171 +48,6 @@
     <url>https://virgintvgo.virginmedia.com/en/epg/initial</url>
     <display-name>SKY ULTRA 2</display-name>
   </channel>
-  <programme channel="ee_uk.433" start="20261128070000 +0100" stop="20261128190000 +0100">
-    <title lang="en">This Is TNT Sports Ultimate</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261128103000 +0100" stop="20261128144500 +0100">
-    <title lang="en">Live: ILT20</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/75754590-3f2b-5431-ae51-aadd2e6024e0.jpg" />
-  </programme>
-  <programme channel="ee_uk.451" start="20261128121100 +0100" stop="20261128141500 +0100">
-    <title lang="en">This is TNT Sports 6</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.419" start="20261128123000 +0100" stop="20261128153000 +0100">
-    <title lang="en">Live EFL</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0430a60e-58ec-57c3-9fde-03451bb5bdd4.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261128123000 +0100" stop="20261128160000 +0100">
-    <title lang="en">EFL Championship</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="virgin_uk.2265" start="20261128123000 +0100" stop="20261128173000 +0100">
-    <title lang="en">Live EFL: Preston NE v Norwich</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261128124500 +0100" stop="20261128144500 +0100">
-    <title lang="en">Live MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/8811e7fb-dae5-50ee-a762-be8b4edfd743.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261128130000 +0100" stop="20261128141500 +0100">
-    <title lang="en">Live: Biathlon World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d53655ac-21e5-51be-a889-98e01de0b15b.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261128130000 +0100" stop="20261128160000 +0100">
-    <title lang="en">Soccer Saturday: Build-Up</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/61ccf30f-a893-5e46-9a82-074a4ed0000d.jpg" />
-  </programme>
-  <programme channel="ee_uk.452" start="20261128130000 +0100" stop="20261128150000 +0100">
-    <title lang="en">This is TNT Sports 7</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261128131500 +0100" stop="20261128134500 +0100">
-    <title lang="en">Premier League Stories</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a06263ce-ad90-58de-836f-b905b2bf09f3.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261128131500 +0100" stop="20261128151500 +0100">
-    <title lang="en">Live: Ski Jumping World Cup: Hinzenbach - Women's HS 90</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261128134500 +0100" stop="20261128140000 +0100">
-    <title lang="en">TNT Sports Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261128140000 +0100" stop="20261128144500 +0100">
-    <title lang="en">Live: IBSF World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/2c6eb14c-6876-513e-b7af-52d0877a86ce.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261128141500 +0100" stop="20261128173000 +0100">
-    <title lang="en">Live: Snooker UK Championship</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d3c38be7-8743-5666-b13b-253732a1b3f0.jpg" />
-  </programme>
-  <programme channel="ee_uk.451" start="20261128141500 +0100" stop="20261128173000 +0100">
-    <title lang="en">Live: Snooker : UK Championship - Round 1</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.409" start="20261128144500 +0100" stop="20261128154500 +0100">
-    <title lang="en">Live MotoGP</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ab89b78f-52f3-5880-b4a5-3b44a50b1a34.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261128144500 +0100" stop="20261128151500 +0100">
-    <title lang="en">SailGP - Racing on the Edge</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0bb077ac-ec69-5765-b89c-7e51599d0a8c.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261128144500 +0100" stop="20261128150000 +0100">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/55817c82-5d74-5cbe-b227-c6e056cebc93.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261128150000 +0100" stop="20261128153000 +0100">
-    <title lang="en">The Breakdown</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a4a3656c-c560-5b43-970d-014e944d5c1d.jpg" />
-  </programme>
-  <programme channel="ee_uk.452" start="20261128150000 +0100" stop="20261128191500 +0100">
-    <title lang="en">Live: Cricket International League</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.410" start="20261128151500 +0100" stop="20261128170000 +0100">
-    <title lang="en">Live: Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fbcc1756-913d-5628-9d50-8ab5fe6f3856.jpg" />
-  </programme>
-  <programme channel="ee_uk.450" start="20261128151500 +0100" stop="20261128184500 +0100">
-    <title lang="en">This is TNT Sports 5</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.411" start="20261128153000 +0100" stop="20261128161500 +0100">
-    <title lang="en">Live: IBSF World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ef6592bf-480e-57f0-9fc6-2f9f2c7ab8f3.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261128153000 +0100" stop="20261128170000 +0100">
-    <title lang="en">Live Formula 1</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/06b3b0f6-78c6-5baf-9ea1-fd61629e4d47.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261128154500 +0100" stop="20261128191500 +0100">
-    <title lang="en">Live: ILT20</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ceb808b5-3b0b-56c6-abc5-e58bbf076df4.jpg" />
-  </programme>
-  <programme channel="ee_uk.420" start="20261128160000 +0100" stop="20261128180000 +0100">
-    <title lang="en">Soccer Saturday</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5b3aed19-4b2c-5135-a0e1-852933ec90ce.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261128160000 +0100" stop="20261128170000 +0100">
-    <title lang="en">Soccer Saturday Live Scores</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.411" start="20261128161500 +0100" stop="20261128164500 +0100">
-    <title lang="en">The Monuments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6706e824-e38a-5552-8fb8-3508d588324e.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261128164500 +0100" stop="20261128170000 +0100">
-    <title lang="en">TNT Sports Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261128170000 +0100" stop="20261128181500 +0100">
-    <title lang="en">Live: Ski Jumping World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/df862cd2-6fd0-5842-ac5d-a3270819b4ad.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261128170000 +0100" stop="20261128180000 +0100">
-    <title lang="en">Longines FEI Jumping World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/77ea303c-f30c-5526-a7d3-83e3afd6a84b.jpg" />
-  </programme>
-  <programme channel="ee_uk.419" start="20261128170000 +0100" stop="20261128180000 +0100">
-    <title lang="en">Soccer Saturday</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5b3aed19-4b2c-5135-a0e1-852933ec90ce.jpg" />
-  </programme>
-  <programme channel="virgin_uk.2258" start="20261128170000 +0100" stop="20261128180000 +0100">
-    <title lang="en">This is Ultra HD</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261128173000 +0100" stop="20261128174500 +0100">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/dbfe028a-62c1-5a51-a428-0c2dd58d31ec.jpg" />
-  </programme>
   <programme channel="ee_uk.451" start="20261128173000 +0100" stop="20261128200000 +0100">
     <title lang="en">This is TNT Sports 6</title>
     <category lang="en">Sports</category>
@@ -220,21 +55,6 @@
   <programme channel="virgin_uk.2265" start="20261128173000 +0100" stop="20261128233000 +0100">
     <title lang="en">This is Ultra HD</title>
     <category lang="en">Sports</category>
-  </programme>
-  <programme channel="ee_uk.408" start="20261128174500 +0100" stop="20261128180000 +0100">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e799245a-487c-5d24-b816-b55a4d8b4025.jpg" />
-  </programme>
-  <programme channel="ee_uk.408" start="20261128180000 +0100" stop="20261128181500 +0100">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/55817c82-5d74-5cbe-b227-c6e056cebc93.jpg" />
-  </programme>
-  <programme channel="ee_uk.411" start="20261128180000 +0100" stop="20261128193000 +0100">
-    <title lang="en">Live: IBSF World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6dd19580-f5fb-50d6-b967-2b3a5c816421.jpg" />
   </programme>
   <programme channel="ee_uk.419" start="20261128180000 +0100" stop="20261128213000 +0100">
     <title lang="en">Live SNF: Ipswich v Aston Villa</title>
@@ -250,16 +70,6 @@
     <title lang="en">Live SNF: Ipswich v Aston Villa</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme channel="ee_uk.408" start="20261128181500 +0100" stop="20261128193000 +0100">
-    <title lang="en">Live: Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4c85e08a-c7e1-518b-8395-e47e2ea9476e.jpg" />
-  </programme>
-  <programme channel="ee_uk.410" start="20261128181500 +0100" stop="20261128193000 +0100">
-    <title lang="en">Live: Women's Alpine Skiing World Cup</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4c85e08a-c7e1-518b-8395-e47e2ea9476e.jpg" />
-  </programme>
   <programme channel="ee_uk.450" start="20261128184500 +0100" stop="20261128203500 +0100">
     <title lang="en">Live: Snowboarding World Cup: Innsbruck - Big Air</title>
     <category lang="en">Sports</category>
@@ -268,11 +78,6 @@
     <title lang="en">This Is TNT Sports Ultimate</title>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/e89fb764-5978-5bb1-8f94-045a6a859bfc.jpg" />
-  </programme>
-  <programme channel="ee_uk.409" start="20261128191500 +0100" stop="20261128193000 +0100">
-    <title lang="en">TNT Sports Reload</title>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e8be0459-989d-5a0d-95ac-3fb784c05913.jpg" />
   </programme>
   <programme channel="ee_uk.452" start="20261128191500 +0100" stop="20261129060000 +0100">
     <title lang="en">This is TNT Sports 7</title>
